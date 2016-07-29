@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 1.11.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="60.792810319300003" minlon="-139.261963632999993" maxlat="60.979082741600003" maxlon="-139.034444375499987"/></metadata>              
+<wpt lat="60.904206204700003" lon="-139.128323172199998">
+  <name>G02_AFC01</name>
+  <extensions>
+    <ogr:X>-139.128323172199998</ogr:X>
+    <ogr:Y>60.904206204700003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.902670028400003" lon="-139.125980752">
+  <name>G02_AFC02</name>
+  <extensions>
+    <ogr:X>-139.125980752</ogr:X>
+    <ogr:Y>60.902670028400003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.899119363" lon="-139.123296341700012">
+  <name>G02_AFC03</name>
+  <extensions>
+    <ogr:X>-139.123296341700012</ogr:X>
+    <ogr:Y>60.899119363</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.906884999" lon="-139.122494710500007">
+  <name>G02_AFC04</name>
+  <extensions>
+    <ogr:X>-139.122494710500007</ogr:X>
+    <ogr:Y>60.906884999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.905474276299998" lon="-139.131860656300006">
+  <name>G02_AFC05</name>
+  <extensions>
+    <ogr:X>-139.131860656300006</ogr:X>
+    <ogr:Y>60.905474276299998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.906429604499998" lon="-139.135494861199987">
+  <name>G02_AFC06</name>
+  <extensions>
+    <ogr:X>-139.135494861199987</ogr:X>
+    <ogr:Y>60.906429604499998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.907645118" lon="-139.129485594699986">
+  <name>G02_AFC07</name>
+  <extensions>
+    <ogr:X>-139.129485594699986</ogr:X>
+    <ogr:Y>60.907645118</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.902126482200003" lon="-139.118933975099992">
+  <name>G02_AFC08</name>
+  <extensions>
+    <ogr:X>-139.118933975099992</ogr:X>
+    <ogr:Y>60.902126482200003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.900962972199999" lon="-139.129056168299996">
+  <name>G02_AFC09</name>
+  <extensions>
+    <ogr:X>-139.129056168299996</ogr:X>
+    <ogr:Y>60.900962972199999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.903289949799998" lon="-139.13310504559999">
+  <name>G02_AFC10</name>
+  <extensions>
+    <ogr:X>-139.13310504559999</ogr:X>
+    <ogr:Y>60.903289949799998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.803979077" lon="-139.247017038699994">
+  <name>G04_AFC01</name>
+  <extensions>
+    <ogr:X>-139.247017038699994</ogr:X>
+    <ogr:Y>60.803979077</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.804709787199997" lon="-139.251782986100011">
+  <name>G04_AFC02</name>
+  <extensions>
+    <ogr:X>-139.251782986100011</ogr:X>
+    <ogr:Y>60.804709787199997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.805688524200001" lon="-139.251813668000011">
+  <name>G04_AFC03</name>
+  <extensions>
+    <ogr:X>-139.251813668000011</ogr:X>
+    <ogr:Y>60.805688524200001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.802591779700002" lon="-139.251451319500006">
+  <name>G04_AFC04</name>
+  <extensions>
+    <ogr:X>-139.251451319500006</ogr:X>
+    <ogr:Y>60.802591779700002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.804055957300001" lon="-139.249655509399986">
+  <name>G04_AFC05</name>
+  <extensions>
+    <ogr:X>-139.249655509399986</ogr:X>
+    <ogr:Y>60.804055957300001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.803423138900001" lon="-139.251558957399993">
+  <name>G04_AFC06</name>
+  <extensions>
+    <ogr:X>-139.251558957399993</ogr:X>
+    <ogr:Y>60.803423138900001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.803747091" lon="-139.254723624">
+  <name>G04_AFC07</name>
+  <extensions>
+    <ogr:X>-139.254723624</ogr:X>
+    <ogr:Y>60.803747091</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.802960648099997" lon="-139.257026066799995">
+  <name>G04_AFC08</name>
+  <extensions>
+    <ogr:X>-139.257026066799995</ogr:X>
+    <ogr:Y>60.802960648099997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.8005925422" lon="-139.258405528699996">
+  <name>G04_AFC09</name>
+  <extensions>
+    <ogr:X>-139.258405528699996</ogr:X>
+    <ogr:Y>60.8005925422</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.792810319300003" lon="-139.26196363299999">
+  <name>G04_AFC10</name>
+  <extensions>
+    <ogr:X>-139.26196363299999</ogr:X>
+    <ogr:Y>60.792810319300003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9726905387" lon="-139.042808108">
+  <name>G13_AFC01</name>
+  <extensions>
+    <ogr:X>-139.042808108</ogr:X>
+    <ogr:Y>60.9726905387</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.971435263399997" lon="-139.041092140899991">
+  <name>G13_AFC02</name>
+  <extensions>
+    <ogr:X>-139.041092140899991</ogr:X>
+    <ogr:Y>60.971435263399997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.974328004199997" lon="-139.042601938100006">
+  <name>G13_AFC03</name>
+  <extensions>
+    <ogr:X>-139.042601938100006</ogr:X>
+    <ogr:Y>60.974328004199997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.976073163499997" lon="-139.039224292900002">
+  <name>G13_AFC04</name>
+  <extensions>
+    <ogr:X>-139.039224292900002</ogr:X>
+    <ogr:Y>60.976073163499997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.978310445300004" lon="-139.034444375499987">
+  <name>G13_AFC05</name>
+  <extensions>
+    <ogr:X>-139.034444375499987</ogr:X>
+    <ogr:Y>60.978310445300004</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.972714211899998" lon="-139.04797532">
+  <name>G13_AFC06</name>
+  <extensions>
+    <ogr:X>-139.04797532</ogr:X>
+    <ogr:Y>60.972714211899998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.972044353699999" lon="-139.049738201499991">
+  <name>G13_AFC07</name>
+  <extensions>
+    <ogr:X>-139.049738201499991</ogr:X>
+    <ogr:Y>60.972044353699999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.975671158600001" lon="-139.04684454560001">
+  <name>G13_AFC08</name>
+  <extensions>
+    <ogr:X>-139.04684454560001</ogr:X>
+    <ogr:Y>60.975671158600001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9771900848" lon="-139.049072285199998">
+  <name>G13_AFC09</name>
+  <extensions>
+    <ogr:X>-139.049072285199998</ogr:X>
+    <ogr:Y>60.9771900848</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.979082741600003" lon="-139.052332389500009">
+  <name>G13_AFC10</name>
+  <extensions>
+    <ogr:X>-139.052332389500009</ogr:X>
+    <ogr:Y>60.979082741600003</ogr:Y>
+  </extensions>
+</wpt>
+</gpx>

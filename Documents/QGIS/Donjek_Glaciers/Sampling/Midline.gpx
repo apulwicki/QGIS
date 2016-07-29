@@ -1,0 +1,3252 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 1.11.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="60.781430489199998" minlon="-139.253290737300006" maxlat="61.016838125299998" maxlon="-139.052491151299989"/></metadata>              
+<wpt lat="60.781638827800002" lon="-139.201143566300004">
+  <name>G04_LM001</name>
+  <extensions>
+    <ogr:X>-139.201143566300004</ogr:X>
+    <ogr:Y>60.781638827800002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781632550700003" lon="-139.201694248100011">
+  <name>G04_LM002</name>
+  <extensions>
+    <ogr:X>-139.201694248100011</ogr:X>
+    <ogr:Y>60.781632550700003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781626271299999" lon="-139.202244929699987">
+  <name>G04_LM003</name>
+  <extensions>
+    <ogr:X>-139.202244929699987</ogr:X>
+    <ogr:Y>60.781626271299999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781619989600003" lon="-139.202795611200003">
+  <name>G04_LM004</name>
+  <extensions>
+    <ogr:X>-139.202795611200003</ogr:X>
+    <ogr:Y>60.781619989600003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781613705700003" lon="-139.203346292499987">
+  <name>G04_LM005</name>
+  <extensions>
+    <ogr:X>-139.203346292499987</ogr:X>
+    <ogr:Y>60.781613705700003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.7816074196" lon="-139.203896973599996">
+  <name>G04_LM006</name>
+  <extensions>
+    <ogr:X>-139.203896973599996</ogr:X>
+    <ogr:Y>60.7816074196</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781601131099997" lon="-139.204447654599988">
+  <name>G04_LM007</name>
+  <extensions>
+    <ogr:X>-139.204447654599988</ogr:X>
+    <ogr:Y>60.781601131099997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781594840399997" lon="-139.20499833529999">
+  <name>G04_LM008</name>
+  <extensions>
+    <ogr:X>-139.20499833529999</ogr:X>
+    <ogr:Y>60.781594840399997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.7815885475" lon="-139.205549015900004">
+  <name>G04_LM009</name>
+  <extensions>
+    <ogr:X>-139.205549015900004</ogr:X>
+    <ogr:Y>60.7815885475</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781582252299998" lon="-139.206099696299987">
+  <name>G04_LM010</name>
+  <extensions>
+    <ogr:X>-139.206099696299987</ogr:X>
+    <ogr:Y>60.781582252299998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781575954799997" lon="-139.206650376499994">
+  <name>G04_LM011</name>
+  <extensions>
+    <ogr:X>-139.206650376499994</ogr:X>
+    <ogr:Y>60.781575954799997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.7815696551" lon="-139.207201056600013">
+  <name>G04_LM012</name>
+  <extensions>
+    <ogr:X>-139.207201056600013</ogr:X>
+    <ogr:Y>60.7815696551</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781563353099997" lon="-139.207751736500001">
+  <name>G04_LM013</name>
+  <extensions>
+    <ogr:X>-139.207751736500001</ogr:X>
+    <ogr:Y>60.781563353099997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781557048800003" lon="-139.208302416200013">
+  <name>G04_LM014</name>
+  <extensions>
+    <ogr:X>-139.208302416200013</ogr:X>
+    <ogr:Y>60.781557048800003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781550742299999" lon="-139.208853095699993">
+  <name>G04_LM015</name>
+  <extensions>
+    <ogr:X>-139.208853095699993</ogr:X>
+    <ogr:Y>60.781550742299999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781544433500002" lon="-139.209403775099986">
+  <name>G04_LM016</name>
+  <extensions>
+    <ogr:X>-139.209403775099986</ogr:X>
+    <ogr:Y>60.781544433500002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781538122500002" lon="-139.209954454199988">
+  <name>G04_LM017</name>
+  <extensions>
+    <ogr:X>-139.209954454199988</ogr:X>
+    <ogr:Y>60.781538122500002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781531809199997" lon="-139.210505133200002">
+  <name>G04_LM018</name>
+  <extensions>
+    <ogr:X>-139.210505133200002</ogr:X>
+    <ogr:Y>60.781531809199997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.7815254936" lon="-139.211055812000012">
+  <name>G04_LM019</name>
+  <extensions>
+    <ogr:X>-139.211055812000012</ogr:X>
+    <ogr:Y>60.7815254936</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.7815191758" lon="-139.211606490700007">
+  <name>G04_LM020</name>
+  <extensions>
+    <ogr:X>-139.211606490700007</ogr:X>
+    <ogr:Y>60.7815191758</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781512855800003" lon="-139.212157169199997">
+  <name>G04_LM021</name>
+  <extensions>
+    <ogr:X>-139.212157169199997</ogr:X>
+    <ogr:Y>60.781512855800003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781506533399998" lon="-139.212707847399997">
+  <name>G04_LM022</name>
+  <extensions>
+    <ogr:X>-139.212707847399997</ogr:X>
+    <ogr:Y>60.781506533399998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781500208799997" lon="-139.213258525500009">
+  <name>G04_LM023</name>
+  <extensions>
+    <ogr:X>-139.213258525500009</ogr:X>
+    <ogr:Y>60.781500208799997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781493882" lon="-139.213809203500006">
+  <name>G04_LM024</name>
+  <extensions>
+    <ogr:X>-139.213809203500006</ogr:X>
+    <ogr:Y>60.781493882</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781487552900003" lon="-139.214359881200011">
+  <name>G04_LM025</name>
+  <extensions>
+    <ogr:X>-139.214359881200011</ogr:X>
+    <ogr:Y>60.781487552900003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781481221500002" lon="-139.2149105588">
+  <name>G04_LM026</name>
+  <extensions>
+    <ogr:X>-139.2149105588</ogr:X>
+    <ogr:Y>60.781481221500002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781474887900004" lon="-139.215461236200014">
+  <name>G04_LM027</name>
+  <extensions>
+    <ogr:X>-139.215461236200014</ogr:X>
+    <ogr:Y>60.781474887900004</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781468552" lon="-139.216011913399996">
+  <name>G04_LM028</name>
+  <extensions>
+    <ogr:X>-139.216011913399996</ogr:X>
+    <ogr:Y>60.781468552</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781462213799998" lon="-139.21656259049999">
+  <name>G04_LM029</name>
+  <extensions>
+    <ogr:X>-139.21656259049999</ogr:X>
+    <ogr:Y>60.781462213799998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781455873399999" lon="-139.217113267299993">
+  <name>G04_LM030</name>
+  <extensions>
+    <ogr:X>-139.217113267299993</ogr:X>
+    <ogr:Y>60.781455873399999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781449530700002" lon="-139.217663944">
+  <name>G04_LM031</name>
+  <extensions>
+    <ogr:X>-139.217663944</ogr:X>
+    <ogr:Y>60.781449530700002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781443185800001" lon="-139.218214620499992">
+  <name>G04_LM032</name>
+  <extensions>
+    <ogr:X>-139.218214620499992</ogr:X>
+    <ogr:Y>60.781443185800001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781436838600001" lon="-139.218765296800001">
+  <name>G04_LM033</name>
+  <extensions>
+    <ogr:X>-139.218765296800001</ogr:X>
+    <ogr:Y>60.781436838600001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781430489199998" lon="-139.21931597299999">
+  <name>G04_LM034</name>
+  <extensions>
+    <ogr:X>-139.21931597299999</ogr:X>
+    <ogr:Y>60.781430489199998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.7814373824" lon="-139.219860625">
+  <name>G04_LM035</name>
+  <extensions>
+    <ogr:X>-139.219860625</ogr:X>
+    <ogr:Y>60.7814373824</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781557235299999" lon="-139.220353902699998">
+  <name>G04_LM036</name>
+  <extensions>
+    <ogr:X>-139.220353902699998</ogr:X>
+    <ogr:Y>60.781557235299999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.7816770863" lon="-139.220847184">
+  <name>G04_LM037</name>
+  <extensions>
+    <ogr:X>-139.220847184</ogr:X>
+    <ogr:Y>60.7816770863</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781796935599999" lon="-139.221340469099999">
+  <name>G04_LM038</name>
+  <extensions>
+    <ogr:X>-139.221340469099999</ogr:X>
+    <ogr:Y>60.781796935599999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.781916783100002" lon="-139.221833757899986">
+  <name>G04_LM039</name>
+  <extensions>
+    <ogr:X>-139.221833757899986</ogr:X>
+    <ogr:Y>60.781916783100002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.782036628699998" lon="-139.222327050399997">
+  <name>G04_LM040</name>
+  <extensions>
+    <ogr:X>-139.222327050399997</ogr:X>
+    <ogr:Y>60.782036628699998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.782156472600001" lon="-139.222820346600002">
+  <name>G04_LM041</name>
+  <extensions>
+    <ogr:X>-139.222820346600002</ogr:X>
+    <ogr:Y>60.782156472600001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.782276314699999" lon="-139.223313646500003">
+  <name>G04_LM042</name>
+  <extensions>
+    <ogr:X>-139.223313646500003</ogr:X>
+    <ogr:Y>60.782276314699999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.782396155" lon="-139.223806950099998">
+  <name>G04_LM043</name>
+  <extensions>
+    <ogr:X>-139.223806950099998</ogr:X>
+    <ogr:Y>60.782396155</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.782515993499999" lon="-139.224300257500005">
+  <name>G04_LM044</name>
+  <extensions>
+    <ogr:X>-139.224300257500005</ogr:X>
+    <ogr:Y>60.782515993499999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.782635830099998" lon="-139.22479356849999">
+  <name>G04_LM045</name>
+  <extensions>
+    <ogr:X>-139.22479356849999</ogr:X>
+    <ogr:Y>60.782635830099998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.782755665" lon="-139.225286883199999">
+  <name>G04_LM046</name>
+  <extensions>
+    <ogr:X>-139.225286883199999</ogr:X>
+    <ogr:Y>60.782755665</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.782875498099997" lon="-139.22578020169999">
+  <name>G04_LM047</name>
+  <extensions>
+    <ogr:X>-139.22578020169999</ogr:X>
+    <ogr:Y>60.782875498099997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.782995329400002" lon="-139.226273523900005">
+  <name>G04_LM048</name>
+  <extensions>
+    <ogr:X>-139.226273523900005</ogr:X>
+    <ogr:Y>60.782995329400002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.783115158800001" lon="-139.226766849699999">
+  <name>G04_LM049</name>
+  <extensions>
+    <ogr:X>-139.226766849699999</ogr:X>
+    <ogr:Y>60.783115158800001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.783234986499998" lon="-139.227260179300004">
+  <name>G04_LM050</name>
+  <extensions>
+    <ogr:X>-139.227260179300004</ogr:X>
+    <ogr:Y>60.783234986499998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.783354812399999" lon="-139.227753512600003">
+  <name>G04_LM051</name>
+  <extensions>
+    <ogr:X>-139.227753512600003</ogr:X>
+    <ogr:Y>60.783354812399999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.783474636500003" lon="-139.228246849599998">
+  <name>G04_LM052</name>
+  <extensions>
+    <ogr:X>-139.228246849599998</ogr:X>
+    <ogr:Y>60.783474636500003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.783594458800003" lon="-139.228740190299987">
+  <name>G04_LM053</name>
+  <extensions>
+    <ogr:X>-139.228740190299987</ogr:X>
+    <ogr:Y>60.783594458800003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.783714279199998" lon="-139.229233534700001">
+  <name>G04_LM054</name>
+  <extensions>
+    <ogr:X>-139.229233534700001</ogr:X>
+    <ogr:Y>60.783714279199998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.783834097899998" lon="-139.229726882800009">
+  <name>G04_LM055</name>
+  <extensions>
+    <ogr:X>-139.229726882800009</ogr:X>
+    <ogr:Y>60.783834097899998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.783953914800001" lon="-139.230220234699999">
+  <name>G04_LM056</name>
+  <extensions>
+    <ogr:X>-139.230220234699999</ogr:X>
+    <ogr:Y>60.783953914800001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.784073729900001" lon="-139.230713590199997">
+  <name>G04_LM057</name>
+  <extensions>
+    <ogr:X>-139.230713590199997</ogr:X>
+    <ogr:Y>60.784073729900001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.784193543100002" lon="-139.23120694939999">
+  <name>G04_LM058</name>
+  <extensions>
+    <ogr:X>-139.23120694939999</ogr:X>
+    <ogr:Y>60.784193543100002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.784313354600002" lon="-139.231700312399994">
+  <name>G04_LM059</name>
+  <extensions>
+    <ogr:X>-139.231700312399994</ogr:X>
+    <ogr:Y>60.784313354600002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.784433164299998" lon="-139.232193679099993">
+  <name>G04_LM060</name>
+  <extensions>
+    <ogr:X>-139.232193679099993</ogr:X>
+    <ogr:Y>60.784433164299998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.784552972199997" lon="-139.232687049399999">
+  <name>G04_LM061</name>
+  <extensions>
+    <ogr:X>-139.232687049399999</ogr:X>
+    <ogr:Y>60.784552972199997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.784674728699997" lon="-139.233178377299993">
+  <name>G04_LM062</name>
+  <extensions>
+    <ogr:X>-139.233178377299993</ogr:X>
+    <ogr:Y>60.784674728699997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.784800719700002" lon="-139.233665264299987">
+  <name>G04_LM063</name>
+  <extensions>
+    <ogr:X>-139.233665264299987</ogr:X>
+    <ogr:Y>60.784800719700002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.784926709" lon="-139.234152155200007">
+  <name>G04_LM064</name>
+  <extensions>
+    <ogr:X>-139.234152155200007</ogr:X>
+    <ogr:Y>60.784926709</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.785052696599998" lon="-139.23463905">
+  <name>G04_LM065</name>
+  <extensions>
+    <ogr:X>-139.23463905</ogr:X>
+    <ogr:Y>60.785052696599998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.785178682400002" lon="-139.2351259486">
+  <name>G04_LM066</name>
+  <extensions>
+    <ogr:X>-139.2351259486</ogr:X>
+    <ogr:Y>60.785178682400002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.785304666499997" lon="-139.235612851000013">
+  <name>G04_LM067</name>
+  <extensions>
+    <ogr:X>-139.235612851000013</ogr:X>
+    <ogr:Y>60.785304666499997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.785430648800002" lon="-139.236099757299996">
+  <name>G04_LM068</name>
+  <extensions>
+    <ogr:X>-139.236099757299996</ogr:X>
+    <ogr:Y>60.785430648800002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.785556629399998" lon="-139.23658666739999">
+  <name>G04_LM069</name>
+  <extensions>
+    <ogr:X>-139.23658666739999</ogr:X>
+    <ogr:Y>60.785556629399998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.785682608199998" lon="-139.237073581400011">
+  <name>G04_LM070</name>
+  <extensions>
+    <ogr:X>-139.237073581400011</ogr:X>
+    <ogr:Y>60.785682608199998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.785808585200002" lon="-139.237560499199986">
+  <name>G04_LM071</name>
+  <extensions>
+    <ogr:X>-139.237560499199986</ogr:X>
+    <ogr:Y>60.785808585200002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.785934560500003" lon="-139.238047420899989">
+  <name>G04_LM072</name>
+  <extensions>
+    <ogr:X>-139.238047420899989</ogr:X>
+    <ogr:Y>60.785934560500003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.786096408" lon="-139.238482524400013">
+  <name>G04_LM073</name>
+  <extensions>
+    <ogr:X>-139.238482524400013</ogr:X>
+    <ogr:Y>60.786096408</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.786278594700001" lon="-139.238888249599995">
+  <name>G04_LM074</name>
+  <extensions>
+    <ogr:X>-139.238888249599995</ogr:X>
+    <ogr:Y>60.786278594700001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.786460780100001" lon="-139.239293979400003">
+  <name>G04_LM075</name>
+  <extensions>
+    <ogr:X>-139.239293979400003</ogr:X>
+    <ogr:Y>60.786460780100001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.7866429643" lon="-139.239699713800007">
+  <name>G04_LM076</name>
+  <extensions>
+    <ogr:X>-139.239699713800007</ogr:X>
+    <ogr:Y>60.7866429643</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.7868251473" lon="-139.240105452899996">
+  <name>G04_LM077</name>
+  <extensions>
+    <ogr:X>-139.240105452899996</ogr:X>
+    <ogr:Y>60.7868251473</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.7870073291" lon="-139.240511196499995">
+  <name>G04_LM078</name>
+  <extensions>
+    <ogr:X>-139.240511196499995</ogr:X>
+    <ogr:Y>60.7870073291</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.787189509699999" lon="-139.24091694469999">
+  <name>G04_LM079</name>
+  <extensions>
+    <ogr:X>-139.24091694469999</ogr:X>
+    <ogr:Y>60.787189509699999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.787371689099999" lon="-139.241322697599998">
+  <name>G04_LM080</name>
+  <extensions>
+    <ogr:X>-139.241322697599998</ogr:X>
+    <ogr:Y>60.787371689099999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.787523919500003" lon="-139.24163722599999">
+  <name>G04_UM001</name>
+  <extensions>
+    <ogr:X>-139.24163722599999</ogr:X>
+    <ogr:Y>60.787523919500003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.7877244027" lon="-139.242005094900009">
+  <name>G04_UM002</name>
+  <extensions>
+    <ogr:X>-139.242005094900009</ogr:X>
+    <ogr:Y>60.7877244027</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.787924884799999" lon="-139.242372968399991">
+  <name>G04_UM003</name>
+  <extensions>
+    <ogr:X>-139.242372968399991</ogr:X>
+    <ogr:Y>60.787924884799999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.788125365900001" lon="-139.242740846400011">
+  <name>G04_UM004</name>
+  <extensions>
+    <ogr:X>-139.242740846400011</ogr:X>
+    <ogr:Y>60.788125365900001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.788325846" lon="-139.243108729099987">
+  <name>G04_UM005</name>
+  <extensions>
+    <ogr:X>-139.243108729099987</ogr:X>
+    <ogr:Y>60.788325846</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.788526325200003" lon="-139.243476616300001">
+  <name>G04_UM006</name>
+  <extensions>
+    <ogr:X>-139.243476616300001</ogr:X>
+    <ogr:Y>60.788526325200003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.788726803300001" lon="-139.243844508100011">
+  <name>G04_UM007</name>
+  <extensions>
+    <ogr:X>-139.243844508100011</ogr:X>
+    <ogr:Y>60.788726803300001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.788927280400003" lon="-139.244212404600006">
+  <name>G04_UM008</name>
+  <extensions>
+    <ogr:X>-139.244212404600006</ogr:X>
+    <ogr:Y>60.788927280400003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.789127756600003" lon="-139.24458030560001">
+  <name>G04_UM009</name>
+  <extensions>
+    <ogr:X>-139.24458030560001</ogr:X>
+    <ogr:Y>60.789127756600003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.789328231699997" lon="-139.244948211200011">
+  <name>G04_UM010</name>
+  <extensions>
+    <ogr:X>-139.244948211200011</ogr:X>
+    <ogr:Y>60.789328231699997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.789528705899997" lon="-139.245316121400009">
+  <name>G04_UM011</name>
+  <extensions>
+    <ogr:X>-139.245316121400009</ogr:X>
+    <ogr:Y>60.789528705899997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.7897291791" lon="-139.245684036200004">
+  <name>G04_UM012</name>
+  <extensions>
+    <ogr:X>-139.245684036200004</ogr:X>
+    <ogr:Y>60.7897291791</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.789929651199998" lon="-139.246051955599995">
+  <name>G04_UM013</name>
+  <extensions>
+    <ogr:X>-139.246051955599995</ogr:X>
+    <ogr:Y>60.789929651199998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.790130122400001" lon="-139.246419879600012">
+  <name>G04_UM014</name>
+  <extensions>
+    <ogr:X>-139.246419879600012</ogr:X>
+    <ogr:Y>60.790130122400001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.7903305926" lon="-139.246787808199997">
+  <name>G04_UM015</name>
+  <extensions>
+    <ogr:X>-139.246787808199997</ogr:X>
+    <ogr:Y>60.7903305926</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.790531061800003" lon="-139.247155741400007">
+  <name>G04_UM016</name>
+  <extensions>
+    <ogr:X>-139.247155741400007</ogr:X>
+    <ogr:Y>60.790531061800003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.79073153" lon="-139.247523679199986">
+  <name>G04_UM017</name>
+  <extensions>
+    <ogr:X>-139.247523679199986</ogr:X>
+    <ogr:Y>60.79073153</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.790931997100003" lon="-139.247891621500003">
+  <name>G04_UM018</name>
+  <extensions>
+    <ogr:X>-139.247891621500003</ogr:X>
+    <ogr:Y>60.790931997100003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.791132463300002" lon="-139.248259568500004">
+  <name>G04_UM019</name>
+  <extensions>
+    <ogr:X>-139.248259568500004</ogr:X>
+    <ogr:Y>60.791132463300002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.791332928499997" lon="-139.248627520100001">
+  <name>G04_UM020</name>
+  <extensions>
+    <ogr:X>-139.248627520100001</ogr:X>
+    <ogr:Y>60.791332928499997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.791533392700003" lon="-139.248995476200008">
+  <name>G04_UM021</name>
+  <extensions>
+    <ogr:X>-139.248995476200008</ogr:X>
+    <ogr:Y>60.791533392700003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.791733856" lon="-139.249363437">
+  <name>G04_UM022</name>
+  <extensions>
+    <ogr:X>-139.249363437</ogr:X>
+    <ogr:Y>60.791733856</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.791934318199999" lon="-139.2497314023">
+  <name>G04_UM023</name>
+  <extensions>
+    <ogr:X>-139.2497314023</ogr:X>
+    <ogr:Y>60.791934318199999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.792134779400001" lon="-139.250099372300014">
+  <name>G04_UM024</name>
+  <extensions>
+    <ogr:X>-139.250099372300014</ogr:X>
+    <ogr:Y>60.792134779400001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.7923352396" lon="-139.250467346800008">
+  <name>G04_UM025</name>
+  <extensions>
+    <ogr:X>-139.250467346800008</ogr:X>
+    <ogr:Y>60.7923352396</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.792535698800002" lon="-139.250835325899999">
+  <name>G04_UM026</name>
+  <extensions>
+    <ogr:X>-139.250835325899999</ogr:X>
+    <ogr:Y>60.792535698800002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.792736157100002" lon="-139.251203309700003">
+  <name>G04_UM027</name>
+  <extensions>
+    <ogr:X>-139.251203309700003</ogr:X>
+    <ogr:Y>60.792736157100002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.792981201" lon="-139.251388154300002">
+  <name>G04_UM028</name>
+  <extensions>
+    <ogr:X>-139.251388154300002</ogr:X>
+    <ogr:Y>60.792981201</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.793245516799999" lon="-139.251493838899989">
+  <name>G04_UM029</name>
+  <extensions>
+    <ogr:X>-139.251493838899989</ogr:X>
+    <ogr:Y>60.793245516799999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.793509832600002" lon="-139.251599525100005">
+  <name>G04_UM030</name>
+  <extensions>
+    <ogr:X>-139.251599525100005</ogr:X>
+    <ogr:Y>60.793509832600002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.793774148300002" lon="-139.251705213099996">
+  <name>G04_UM031</name>
+  <extensions>
+    <ogr:X>-139.251705213099996</ogr:X>
+    <ogr:Y>60.793774148300002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.794038463900002" lon="-139.251810902800003">
+  <name>G04_UM032</name>
+  <extensions>
+    <ogr:X>-139.251810902800003</ogr:X>
+    <ogr:Y>60.794038463900002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.794302779399999" lon="-139.25191659410001">
+  <name>G04_UM033</name>
+  <extensions>
+    <ogr:X>-139.25191659410001</ogr:X>
+    <ogr:Y>60.794302779399999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.794567094800001" lon="-139.252022287199992">
+  <name>G04_UM034</name>
+  <extensions>
+    <ogr:X>-139.252022287199992</ogr:X>
+    <ogr:Y>60.794567094800001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.794831410199997" lon="-139.25212798199999">
+  <name>G04_UM035</name>
+  <extensions>
+    <ogr:X>-139.25212798199999</ogr:X>
+    <ogr:Y>60.794831410199997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.795095725400003" lon="-139.252233678500005">
+  <name>G04_UM036</name>
+  <extensions>
+    <ogr:X>-139.252233678500005</ogr:X>
+    <ogr:Y>60.795095725400003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.795360040600002" lon="-139.252339376700007">
+  <name>G04_UM037</name>
+  <extensions>
+    <ogr:X>-139.252339376700007</ogr:X>
+    <ogr:Y>60.795360040600002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.795624355699999" lon="-139.252445076599997">
+  <name>G04_UM038</name>
+  <extensions>
+    <ogr:X>-139.252445076599997</ogr:X>
+    <ogr:Y>60.795624355699999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.795888670700002" lon="-139.252550778200003">
+  <name>G04_UM039</name>
+  <extensions>
+    <ogr:X>-139.252550778200003</ogr:X>
+    <ogr:Y>60.795888670700002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.796152985600003" lon="-139.252656481499997">
+  <name>G04_UM040</name>
+  <extensions>
+    <ogr:X>-139.252656481499997</ogr:X>
+    <ogr:Y>60.796152985600003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.796417300400002" lon="-139.252762186599995">
+  <name>G04_UM041</name>
+  <extensions>
+    <ogr:X>-139.252762186599995</ogr:X>
+    <ogr:Y>60.796417300400002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.796681615200001" lon="-139.252867893299992">
+  <name>G04_UM042</name>
+  <extensions>
+    <ogr:X>-139.252867893299992</ogr:X>
+    <ogr:Y>60.796681615200001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.796945929800003" lon="-139.252973601700006">
+  <name>G04_UM043</name>
+  <extensions>
+    <ogr:X>-139.252973601700006</ogr:X>
+    <ogr:Y>60.796945929800003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.797210244399999" lon="-139.253079311899995">
+  <name>G04_UM044</name>
+  <extensions>
+    <ogr:X>-139.253079311899995</ogr:X>
+    <ogr:Y>60.797210244399999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.797474558899999" lon="-139.253185023700013">
+  <name>G04_UM045</name>
+  <extensions>
+    <ogr:X>-139.253185023700013</ogr:X>
+    <ogr:Y>60.797474558899999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.797738873299998" lon="-139.253290737300006">
+  <name>G04_UM046</name>
+  <extensions>
+    <ogr:X>-139.253290737300006</ogr:X>
+    <ogr:Y>60.797738873299998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.798003378799997" lon="-139.253242961399991">
+  <name>G04_UM047</name>
+  <extensions>
+    <ogr:X>-139.253242961399991</ogr:X>
+    <ogr:Y>60.798003378799997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.798267952899998" lon="-139.253140003200002">
+  <name>G04_UM048</name>
+  <extensions>
+    <ogr:X>-139.253140003200002</ogr:X>
+    <ogr:Y>60.798267952899998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.798532527" lon="-139.253037043299997">
+  <name>G04_UM049</name>
+  <extensions>
+    <ogr:X>-139.253037043299997</ogr:X>
+    <ogr:Y>60.798532527</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.798797100900003" lon="-139.252934081700005">
+  <name>G04_UM050</name>
+  <extensions>
+    <ogr:X>-139.252934081700005</ogr:X>
+    <ogr:Y>60.798797100900003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.799061674800001" lon="-139.252831118399996">
+  <name>G04_UM051</name>
+  <extensions>
+    <ogr:X>-139.252831118399996</ogr:X>
+    <ogr:Y>60.799061674800001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.799326248600003" lon="-139.252728153300012">
+  <name>G04_UM052</name>
+  <extensions>
+    <ogr:X>-139.252728153300012</ogr:X>
+    <ogr:Y>60.799326248600003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.799590822200003" lon="-139.252625186399996">
+  <name>G04_UM053</name>
+  <extensions>
+    <ogr:X>-139.252625186399996</ogr:X>
+    <ogr:Y>60.799590822200003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.799855395800002" lon="-139.252522217900008">
+  <name>G04_UM054</name>
+  <extensions>
+    <ogr:X>-139.252522217900008</ogr:X>
+    <ogr:Y>60.799855395800002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.800119969299999" lon="-139.252419247599988">
+  <name>G04_UM055</name>
+  <extensions>
+    <ogr:X>-139.252419247599988</ogr:X>
+    <ogr:Y>60.800119969299999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.800384542700002" lon="-139.252316275600009">
+  <name>G04_UM056</name>
+  <extensions>
+    <ogr:X>-139.252316275600009</ogr:X>
+    <ogr:Y>60.800384542700002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.800649116" lon="-139.252213301799998">
+  <name>G04_UM057</name>
+  <extensions>
+    <ogr:X>-139.252213301799998</ogr:X>
+    <ogr:Y>60.800649116</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.800913689200001" lon="-139.252110326299999">
+  <name>G04_UM058</name>
+  <extensions>
+    <ogr:X>-139.252110326299999</ogr:X>
+    <ogr:Y>60.800913689200001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.801178262299999" lon="-139.252007349100012">
+  <name>G04_UM059</name>
+  <extensions>
+    <ogr:X>-139.252007349100012</ogr:X>
+    <ogr:Y>60.801178262299999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.8014428352" lon="-139.251904370099993">
+  <name>G04_UM060</name>
+  <extensions>
+    <ogr:X>-139.251904370099993</ogr:X>
+    <ogr:Y>60.8014428352</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.801707408200002" lon="-139.251801389399986">
+  <name>G04_UM061</name>
+  <extensions>
+    <ogr:X>-139.251801389399986</ogr:X>
+    <ogr:Y>60.801707408200002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.801971981" lon="-139.25169840699999">
+  <name>G04_UM062</name>
+  <extensions>
+    <ogr:X>-139.25169840699999</ogr:X>
+    <ogr:Y>60.801971981</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.802236553699998" lon="-139.251595422799994">
+  <name>G04_UM063</name>
+  <extensions>
+    <ogr:X>-139.251595422799994</ogr:X>
+    <ogr:Y>60.802236553699998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.802501126300001" lon="-139.251492436900008">
+  <name>G04_UM064</name>
+  <extensions>
+    <ogr:X>-139.251492436900008</ogr:X>
+    <ogr:Y>60.802501126300001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.934513281699999" lon="-139.18943078289999">
+  <name>G02_LM001</name>
+  <extensions>
+    <ogr:X>-139.18943078289999</ogr:X>
+    <ogr:Y>60.934513281699999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.934248586599999" lon="-139.189328781499995">
+  <name>G02_LM002</name>
+  <extensions>
+    <ogr:X>-139.189328781499995</ogr:X>
+    <ogr:Y>60.934248586599999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.933983891499999" lon="-139.189226781799988">
+  <name>G02_LM003</name>
+  <extensions>
+    <ogr:X>-139.189226781799988</ogr:X>
+    <ogr:Y>60.933983891499999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.933719196299997" lon="-139.189124783799997">
+  <name>G02_LM004</name>
+  <extensions>
+    <ogr:X>-139.189124783799997</ogr:X>
+    <ogr:Y>60.933719196299997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.933454500899998" lon="-139.189022787400006">
+  <name>G02_LM005</name>
+  <extensions>
+    <ogr:X>-139.189022787400006</ogr:X>
+    <ogr:Y>60.933454500899998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.933189805600001" lon="-139.188920792599987">
+  <name>G02_LM006</name>
+  <extensions>
+    <ogr:X>-139.188920792599987</ogr:X>
+    <ogr:Y>60.933189805600001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.932925110100001" lon="-139.188818799500012">
+  <name>G02_LM007</name>
+  <extensions>
+    <ogr:X>-139.188818799500012</ogr:X>
+    <ogr:Y>60.932925110100001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.932660414600001" lon="-139.188716808099997">
+  <name>G02_LM008</name>
+  <extensions>
+    <ogr:X>-139.188716808099997</ogr:X>
+    <ogr:Y>60.932660414600001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.932395718899997" lon="-139.18861481830001">
+  <name>G02_LM009</name>
+  <extensions>
+    <ogr:X>-139.18861481830001</ogr:X>
+    <ogr:Y>60.932395718899997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9321310232" lon="-139.188512830200011">
+  <name>G02_LM010</name>
+  <extensions>
+    <ogr:X>-139.188512830200011</ogr:X>
+    <ogr:Y>60.9321310232</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.931866327400002" lon="-139.1884108438">
+  <name>G02_LM011</name>
+  <extensions>
+    <ogr:X>-139.1884108438</ogr:X>
+    <ogr:Y>60.931866327400002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.931601631600003" lon="-139.188308858900001">
+  <name>G02_LM012</name>
+  <extensions>
+    <ogr:X>-139.188308858900001</ogr:X>
+    <ogr:Y>60.931601631600003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.931336935600001" lon="-139.188206875800006">
+  <name>G02_LM013</name>
+  <extensions>
+    <ogr:X>-139.188206875800006</ogr:X>
+    <ogr:Y>60.931336935600001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.931072239599999" lon="-139.188104894300011">
+  <name>G02_LM014</name>
+  <extensions>
+    <ogr:X>-139.188104894300011</ogr:X>
+    <ogr:Y>60.931072239599999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.930807543500002" lon="-139.188002914500004">
+  <name>G02_LM015</name>
+  <extensions>
+    <ogr:X>-139.188002914500004</ogr:X>
+    <ogr:Y>60.930807543500002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.930542847300003" lon="-139.187900936299997">
+  <name>G02_LM016</name>
+  <extensions>
+    <ogr:X>-139.187900936299997</ogr:X>
+    <ogr:Y>60.930542847300003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.930278151" lon="-139.187798959800006">
+  <name>G02_LM017</name>
+  <extensions>
+    <ogr:X>-139.187798959800006</ogr:X>
+    <ogr:Y>60.930278151</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.930013454700003" lon="-139.187696984899986">
+  <name>G02_LM018</name>
+  <extensions>
+    <ogr:X>-139.187696984899986</ogr:X>
+    <ogr:Y>60.930013454700003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.929748758300001" lon="-139.187595011700012">
+  <name>G02_LM019</name>
+  <extensions>
+    <ogr:X>-139.187595011700012</ogr:X>
+    <ogr:Y>60.929748758300001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.929484061799997" lon="-139.187493040100009">
+  <name>G02_LM020</name>
+  <extensions>
+    <ogr:X>-139.187493040100009</ogr:X>
+    <ogr:Y>60.929484061799997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.929219365199998" lon="-139.187391070199993">
+  <name>G02_LM021</name>
+  <extensions>
+    <ogr:X>-139.187391070199993</ogr:X>
+    <ogr:Y>60.929219365199998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.928954668499998" lon="-139.187289101900006">
+  <name>G02_LM022</name>
+  <extensions>
+    <ogr:X>-139.187289101900006</ogr:X>
+    <ogr:Y>60.928954668499998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.928689971799997" lon="-139.187187135300007">
+  <name>G02_LM023</name>
+  <extensions>
+    <ogr:X>-139.187187135300007</ogr:X>
+    <ogr:Y>60.928689971799997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9284252749" lon="-139.187085170399996">
+  <name>G02_LM024</name>
+  <extensions>
+    <ogr:X>-139.187085170399996</ogr:X>
+    <ogr:Y>60.9284252749</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.928167592900003" lon="-139.186929360199997">
+  <name>G02_LM025</name>
+  <extensions>
+    <ogr:X>-139.186929360199997</ogr:X>
+    <ogr:Y>60.928167592900003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.927913501799999" lon="-139.186745985500011">
+  <name>G02_LM026</name>
+  <extensions>
+    <ogr:X>-139.186745985500011</ogr:X>
+    <ogr:Y>60.927913501799999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.927659410499999" lon="-139.186562613799993">
+  <name>G02_LM027</name>
+  <extensions>
+    <ogr:X>-139.186562613799993</ogr:X>
+    <ogr:Y>60.927659410499999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.927405319" lon="-139.186379244899996">
+  <name>G02_LM028</name>
+  <extensions>
+    <ogr:X>-139.186379244899996</ogr:X>
+    <ogr:Y>60.927405319</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9271512272" lon="-139.186195879">
+  <name>G02_LM029</name>
+  <extensions>
+    <ogr:X>-139.186195879</ogr:X>
+    <ogr:Y>60.9271512272</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.926897135200001" lon="-139.186012515899989">
+  <name>G02_LM030</name>
+  <extensions>
+    <ogr:X>-139.186012515899989</ogr:X>
+    <ogr:Y>60.926897135200001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.926643042899997" lon="-139.185829155699992">
+  <name>G02_LM031</name>
+  <extensions>
+    <ogr:X>-139.185829155699992</ogr:X>
+    <ogr:Y>60.926643042899997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.926388950400003" lon="-139.185645798400003">
+  <name>G02_LM032</name>
+  <extensions>
+    <ogr:X>-139.185645798400003</ogr:X>
+    <ogr:Y>60.926388950400003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.926134857599997" lon="-139.185462444">
+  <name>G02_LM033</name>
+  <extensions>
+    <ogr:X>-139.185462444</ogr:X>
+    <ogr:Y>60.926134857599997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.925880764600002" lon="-139.185279092499997">
+  <name>G02_LM034</name>
+  <extensions>
+    <ogr:X>-139.185279092499997</ogr:X>
+    <ogr:Y>60.925880764600002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.925626671300002" lon="-139.185095743900007">
+  <name>G02_LM035</name>
+  <extensions>
+    <ogr:X>-139.185095743900007</ogr:X>
+    <ogr:Y>60.925626671300002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.925372577799997" lon="-139.18491239810001">
+  <name>G02_LM036</name>
+  <extensions>
+    <ogr:X>-139.18491239810001</ogr:X>
+    <ogr:Y>60.925372577799997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.925118484099997" lon="-139.184729055300011">
+  <name>G02_LM037</name>
+  <extensions>
+    <ogr:X>-139.184729055300011</ogr:X>
+    <ogr:Y>60.925118484099997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.924864390099998" lon="-139.184545715300004">
+  <name>G02_LM038</name>
+  <extensions>
+    <ogr:X>-139.184545715300004</ogr:X>
+    <ogr:Y>60.924864390099998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.924610295800001" lon="-139.184362378299994">
+  <name>G02_LM039</name>
+  <extensions>
+    <ogr:X>-139.184362378299994</ogr:X>
+    <ogr:Y>60.924610295800001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9243562013" lon="-139.184179044100006">
+  <name>G02_LM040</name>
+  <extensions>
+    <ogr:X>-139.184179044100006</ogr:X>
+    <ogr:Y>60.9243562013</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.924102106600003" lon="-139.183995712799998">
+  <name>G02_LM041</name>
+  <extensions>
+    <ogr:X>-139.183995712799998</ogr:X>
+    <ogr:Y>60.924102106600003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.923848011600001" lon="-139.183812384399999">
+  <name>G02_LM042</name>
+  <extensions>
+    <ogr:X>-139.183812384399999</ogr:X>
+    <ogr:Y>60.923848011600001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.923603519700002" lon="-139.183593723600012">
+  <name>G02_LM043</name>
+  <extensions>
+    <ogr:X>-139.183593723600012</ogr:X>
+    <ogr:Y>60.923603519700002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.923394237700002" lon="-139.183245509399995">
+  <name>G02_LM044</name>
+  <extensions>
+    <ogr:X>-139.183245509399995</ogr:X>
+    <ogr:Y>60.923394237700002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.923184954900002" lon="-139.182897299899992">
+  <name>G02_LM045</name>
+  <extensions>
+    <ogr:X>-139.182897299899992</ogr:X>
+    <ogr:Y>60.923184954900002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9229756712" lon="-139.182549094800009">
+  <name>G02_LM046</name>
+  <extensions>
+    <ogr:X>-139.182549094800009</ogr:X>
+    <ogr:Y>60.9229756712</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.922766386600003" lon="-139.182200894400012">
+  <name>G02_LM047</name>
+  <extensions>
+    <ogr:X>-139.182200894400012</ogr:X>
+    <ogr:Y>60.922766386600003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.922557101099997" lon="-139.181852698499995">
+  <name>G02_LM048</name>
+  <extensions>
+    <ogr:X>-139.181852698499995</ogr:X>
+    <ogr:Y>60.922557101099997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.922347814699997" lon="-139.181504507200003">
+  <name>G02_LM049</name>
+  <extensions>
+    <ogr:X>-139.181504507200003</ogr:X>
+    <ogr:Y>60.922347814699997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.922138527500003" lon="-139.181156320399992">
+  <name>G02_LM050</name>
+  <extensions>
+    <ogr:X>-139.181156320399992</ogr:X>
+    <ogr:Y>60.922138527500003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.921929239299999" lon="-139.180808138200007">
+  <name>G02_LM051</name>
+  <extensions>
+    <ogr:X>-139.180808138200007</ogr:X>
+    <ogr:Y>60.921929239299999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.921719950300002" lon="-139.180459960500002">
+  <name>G02_LM052</name>
+  <extensions>
+    <ogr:X>-139.180459960500002</ogr:X>
+    <ogr:Y>60.921719950300002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.921510660400003" lon="-139.180111787399994">
+  <name>G02_LM053</name>
+  <extensions>
+    <ogr:X>-139.180111787399994</ogr:X>
+    <ogr:Y>60.921510660400003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.921301369600002" lon="-139.179763618900012">
+  <name>G02_LM054</name>
+  <extensions>
+    <ogr:X>-139.179763618900012</ogr:X>
+    <ogr:Y>60.921301369600002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.921092077899999" lon="-139.17941545490001">
+  <name>G02_LM055</name>
+  <extensions>
+    <ogr:X>-139.17941545490001</ogr:X>
+    <ogr:Y>60.921092077899999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.920882785300002" lon="-139.179067295500005">
+  <name>G02_LM056</name>
+  <extensions>
+    <ogr:X>-139.179067295500005</ogr:X>
+    <ogr:Y>60.920882785300002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.920673491800002" lon="-139.178719140600009">
+  <name>G02_LM057</name>
+  <extensions>
+    <ogr:X>-139.178719140600009</ogr:X>
+    <ogr:Y>60.920673491800002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.920464197400001" lon="-139.17837099030001">
+  <name>G02_LM058</name>
+  <extensions>
+    <ogr:X>-139.17837099030001</ogr:X>
+    <ogr:Y>60.920464197400001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9202549022" lon="-139.178022844600008">
+  <name>G02_LM059</name>
+  <extensions>
+    <ogr:X>-139.178022844600008</ogr:X>
+    <ogr:Y>60.9202549022</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.920045606" lon="-139.177674703399987">
+  <name>G02_LM060</name>
+  <extensions>
+    <ogr:X>-139.177674703399987</ogr:X>
+    <ogr:Y>60.920045606</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.919836309" lon="-139.177326566700003">
+  <name>G02_LM061</name>
+  <extensions>
+    <ogr:X>-139.177326566700003</ogr:X>
+    <ogr:Y>60.919836309</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.919627011099998" lon="-139.176978434700004">
+  <name>G02_LM062</name>
+  <extensions>
+    <ogr:X>-139.176978434700004</ogr:X>
+    <ogr:Y>60.919627011099998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.919417712300003" lon="-139.176630307200014">
+  <name>G02_LM063</name>
+  <extensions>
+    <ogr:X>-139.176630307200014</ogr:X>
+    <ogr:Y>60.919417712300003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.919198291299999" lon="-139.176310355499993">
+  <name>G02_LM064</name>
+  <extensions>
+    <ogr:X>-139.176310355499993</ogr:X>
+    <ogr:Y>60.919198291299999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.918974653200003" lon="-139.17600214399999">
+  <name>G02_LM065</name>
+  <extensions>
+    <ogr:X>-139.17600214399999</ogr:X>
+    <ogr:Y>60.918974653200003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.918751014400002" lon="-139.175693936899989">
+  <name>G02_LM066</name>
+  <extensions>
+    <ogr:X>-139.175693936899989</ogr:X>
+    <ogr:Y>60.918751014400002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9185273748" lon="-139.175385734">
+  <name>G02_LM067</name>
+  <extensions>
+    <ogr:X>-139.175385734</ogr:X>
+    <ogr:Y>60.9185273748</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.918303734600002" lon="-139.175077535500009">
+  <name>G02_LM068</name>
+  <extensions>
+    <ogr:X>-139.175077535500009</ogr:X>
+    <ogr:Y>60.918303734600002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.918080093699999" lon="-139.174769341299992">
+  <name>G02_LM069</name>
+  <extensions>
+    <ogr:X>-139.174769341299992</ogr:X>
+    <ogr:Y>60.918080093699999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.917856452099997" lon="-139.17446115140001">
+  <name>G02_LM070</name>
+  <extensions>
+    <ogr:X>-139.17446115140001</ogr:X>
+    <ogr:Y>60.917856452099997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.917632809799997" lon="-139.174152965699989">
+  <name>G02_LM071</name>
+  <extensions>
+    <ogr:X>-139.174152965699989</ogr:X>
+    <ogr:Y>60.917632809799997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.917409166699997" lon="-139.173844784399989">
+  <name>G02_LM072</name>
+  <extensions>
+    <ogr:X>-139.173844784399989</ogr:X>
+    <ogr:Y>60.917409166699997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.917185523" lon="-139.173536607399996">
+  <name>G02_LM073</name>
+  <extensions>
+    <ogr:X>-139.173536607399996</ogr:X>
+    <ogr:Y>60.917185523</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9169618787" lon="-139.173228434700007">
+  <name>G02_LM074</name>
+  <extensions>
+    <ogr:X>-139.173228434700007</ogr:X>
+    <ogr:Y>60.9169618787</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9167382336" lon="-139.172920266299997">
+  <name>G02_LM075</name>
+  <extensions>
+    <ogr:X>-139.172920266299997</ogr:X>
+    <ogr:Y>60.9167382336</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.916514587800002" lon="-139.172612102199992">
+  <name>G02_LM076</name>
+  <extensions>
+    <ogr:X>-139.172612102199992</ogr:X>
+    <ogr:Y>60.916514587800002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.916290941299998" lon="-139.172303942399992">
+  <name>G02_LM077</name>
+  <extensions>
+    <ogr:X>-139.172303942399992</ogr:X>
+    <ogr:Y>60.916290941299998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.916084264" lon="-139.171958949100002">
+  <name>G02_LM078</name>
+  <extensions>
+    <ogr:X>-139.171958949100002</ogr:X>
+    <ogr:Y>60.916084264</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.915922105500002" lon="-139.171517317699994">
+  <name>G02_LM079</name>
+  <extensions>
+    <ogr:X>-139.171517317699994</ogr:X>
+    <ogr:Y>60.915922105500002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.915759945399998" lon="-139.171075690799995">
+  <name>G02_LM080</name>
+  <extensions>
+    <ogr:X>-139.171075690799995</ogr:X>
+    <ogr:Y>60.915759945399998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.915597784" lon="-139.170634068400005">
+  <name>G02_LM081</name>
+  <extensions>
+    <ogr:X>-139.170634068400005</ogr:X>
+    <ogr:Y>60.915597784</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.915435621100002" lon="-139.170192450400009">
+  <name>G02_LM082</name>
+  <extensions>
+    <ogr:X>-139.170192450400009</ogr:X>
+    <ogr:Y>60.915435621100002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.915273456800001" lon="-139.169750837">
+  <name>G02_LM083</name>
+  <extensions>
+    <ogr:X>-139.169750837</ogr:X>
+    <ogr:Y>60.915273456800001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.915111291099997" lon="-139.169309228099991">
+  <name>G02_LM084</name>
+  <extensions>
+    <ogr:X>-139.169309228099991</ogr:X>
+    <ogr:Y>60.915111291099997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.914949123900001" lon="-139.168867623599994">
+  <name>G02_LM085</name>
+  <extensions>
+    <ogr:X>-139.168867623599994</ogr:X>
+    <ogr:Y>60.914949123900001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.914786955300002" lon="-139.168426023699993">
+  <name>G02_LM086</name>
+  <extensions>
+    <ogr:X>-139.168426023699993</ogr:X>
+    <ogr:Y>60.914786955300002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.914624785299999" lon="-139.167984428300002">
+  <name>G02_LM087</name>
+  <extensions>
+    <ogr:X>-139.167984428300002</ogr:X>
+    <ogr:Y>60.914624785299999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.914462613799998" lon="-139.167542837300005">
+  <name>G02_LM088</name>
+  <extensions>
+    <ogr:X>-139.167542837300005</ogr:X>
+    <ogr:Y>60.914462613799998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9143004409" lon="-139.167101250900004">
+  <name>G02_LM089</name>
+  <extensions>
+    <ogr:X>-139.167101250900004</ogr:X>
+    <ogr:Y>60.9143004409</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.914138266499997" lon="-139.166659669000012">
+  <name>G02_LM090</name>
+  <extensions>
+    <ogr:X>-139.166659669000012</ogr:X>
+    <ogr:Y>60.914138266499997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.913860685300001" lon="-139.165973898700003">
+  <name>G02_UM001</name>
+  <extensions>
+    <ogr:X>-139.165973898700003</ogr:X>
+    <ogr:Y>60.913860685300001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.913754540299998" lon="-139.165465563999987">
+  <name>G02_UM002</name>
+  <extensions>
+    <ogr:X>-139.165465563999987</ogr:X>
+    <ogr:Y>60.913754540299998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.913648393400003" lon="-139.164957232700004">
+  <name>G02_UM003</name>
+  <extensions>
+    <ogr:X>-139.164957232700004</ogr:X>
+    <ogr:Y>60.913648393400003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.913542244600002" lon="-139.164448904799997">
+  <name>G02_UM004</name>
+  <extensions>
+    <ogr:X>-139.164448904799997</ogr:X>
+    <ogr:Y>60.913542244600002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.913436093900003" lon="-139.163940580299993">
+  <name>G02_UM005</name>
+  <extensions>
+    <ogr:X>-139.163940580299993</ogr:X>
+    <ogr:Y>60.913436093900003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.913329941299999" lon="-139.163432259300009">
+  <name>G02_UM006</name>
+  <extensions>
+    <ogr:X>-139.163432259300009</ogr:X>
+    <ogr:Y>60.913329941299999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.913223786800003" lon="-139.162923941600013">
+  <name>G02_UM007</name>
+  <extensions>
+    <ogr:X>-139.162923941600013</ogr:X>
+    <ogr:Y>60.913223786800003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9131176303" lon="-139.162415627400009">
+  <name>G02_UM008</name>
+  <extensions>
+    <ogr:X>-139.162415627400009</ogr:X>
+    <ogr:Y>60.9131176303</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.913011472" lon="-139.161907316600008">
+  <name>G02_UM009</name>
+  <extensions>
+    <ogr:X>-139.161907316600008</ogr:X>
+    <ogr:Y>60.913011472</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.912905311800003" lon="-139.161399009099995">
+  <name>G02_UM010</name>
+  <extensions>
+    <ogr:X>-139.161399009099995</ogr:X>
+    <ogr:Y>60.912905311800003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.912799149599998" lon="-139.160890705100002">
+  <name>G02_UM011</name>
+  <extensions>
+    <ogr:X>-139.160890705100002</ogr:X>
+    <ogr:Y>60.912799149599998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.912692985600003" lon="-139.160382404500012">
+  <name>G02_UM012</name>
+  <extensions>
+    <ogr:X>-139.160382404500012</ogr:X>
+    <ogr:Y>60.912692985600003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.912586819600001" lon="-139.159874107299999">
+  <name>G02_UM013</name>
+  <extensions>
+    <ogr:X>-139.159874107299999</ogr:X>
+    <ogr:Y>60.912586819600001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.912480651700001" lon="-139.159365813499988">
+  <name>G02_UM014</name>
+  <extensions>
+    <ogr:X>-139.159365813499988</ogr:X>
+    <ogr:Y>60.912480651700001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.912374482" lon="-139.158857523199998">
+  <name>G02_UM015</name>
+  <extensions>
+    <ogr:X>-139.158857523199998</ogr:X>
+    <ogr:Y>60.912374482</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9122683103" lon="-139.158349236199996">
+  <name>G02_UM016</name>
+  <extensions>
+    <ogr:X>-139.158349236199996</ogr:X>
+    <ogr:Y>60.9122683103</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.912162136699997" lon="-139.157840952599997">
+  <name>G02_UM017</name>
+  <extensions>
+    <ogr:X>-139.157840952599997</ogr:X>
+    <ogr:Y>60.912162136699997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.912055961199997" lon="-139.15733267249999">
+  <name>G02_UM018</name>
+  <extensions>
+    <ogr:X>-139.15733267249999</ogr:X>
+    <ogr:Y>60.912055961199997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.911949783799997" lon="-139.156824395699999">
+  <name>G02_UM019</name>
+  <extensions>
+    <ogr:X>-139.156824395699999</ogr:X>
+    <ogr:Y>60.911949783799997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9118436045" lon="-139.1563161224">
+  <name>G02_UM020</name>
+  <extensions>
+    <ogr:X>-139.1563161224</ogr:X>
+    <ogr:Y>60.9118436045</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.911737423300004" lon="-139.155807852500004">
+  <name>G02_UM021</name>
+  <extensions>
+    <ogr:X>-139.155807852500004</ogr:X>
+    <ogr:Y>60.911737423300004</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9116312401" lon="-139.155299586000012">
+  <name>G02_UM022</name>
+  <extensions>
+    <ogr:X>-139.155299586000012</ogr:X>
+    <ogr:Y>60.9116312401</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9115250551" lon="-139.154791322899996">
+  <name>G02_UM023</name>
+  <extensions>
+    <ogr:X>-139.154791322899996</ogr:X>
+    <ogr:Y>60.9115250551</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.911418868200002" lon="-139.154283063200012">
+  <name>G02_UM024</name>
+  <extensions>
+    <ogr:X>-139.154283063200012</ogr:X>
+    <ogr:Y>60.911418868200002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.911312679300003" lon="-139.153774806900003">
+  <name>G02_UM025</name>
+  <extensions>
+    <ogr:X>-139.153774806900003</ogr:X>
+    <ogr:Y>60.911312679300003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.911206488600001" lon="-139.153266554">
+  <name>G02_UM026</name>
+  <extensions>
+    <ogr:X>-139.153266554</ogr:X>
+    <ogr:Y>60.911206488600001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.911100295899999" lon="-139.152758304600013">
+  <name>G02_UM027</name>
+  <extensions>
+    <ogr:X>-139.152758304600013</ogr:X>
+    <ogr:Y>60.911100295899999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9109941014" lon="-139.152250058499988">
+  <name>G02_UM028</name>
+  <extensions>
+    <ogr:X>-139.152250058499988</ogr:X>
+    <ogr:Y>60.9109941014</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.910887904900001" lon="-139.15174181590001">
+  <name>G02_UM029</name>
+  <extensions>
+    <ogr:X>-139.15174181590001</ogr:X>
+    <ogr:Y>60.910887904900001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.910781706599998" lon="-139.151233576700008">
+  <name>G02_UM030</name>
+  <extensions>
+    <ogr:X>-139.151233576700008</ogr:X>
+    <ogr:Y>60.910781706599998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.910675506300002" lon="-139.150725340799994">
+  <name>G02_UM031</name>
+  <extensions>
+    <ogr:X>-139.150725340799994</ogr:X>
+    <ogr:Y>60.910675506300002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.910569304100001" lon="-139.1502171084">
+  <name>G02_UM032</name>
+  <extensions>
+    <ogr:X>-139.1502171084</ogr:X>
+    <ogr:Y>60.910569304100001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9104631" lon="-139.149708879400009">
+  <name>G02_UM033</name>
+  <extensions>
+    <ogr:X>-139.149708879400009</ogr:X>
+    <ogr:Y>60.9104631</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.910356894" lon="-139.149200653799994">
+  <name>G02_UM034</name>
+  <extensions>
+    <ogr:X>-139.149200653799994</ogr:X>
+    <ogr:Y>60.910356894</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.910250686099999" lon="-139.148692431699999">
+  <name>G02_UM035</name>
+  <extensions>
+    <ogr:X>-139.148692431699999</ogr:X>
+    <ogr:Y>60.910250686099999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.910144476299998" lon="-139.148184212899992">
+  <name>G02_UM036</name>
+  <extensions>
+    <ogr:X>-139.148184212899992</ogr:X>
+    <ogr:Y>60.910144476299998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.910038264599997" lon="-139.147675997499988">
+  <name>G02_UM037</name>
+  <extensions>
+    <ogr:X>-139.147675997499988</ogr:X>
+    <ogr:Y>60.910038264599997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.909932051" lon="-139.147167785600004">
+  <name>G02_UM038</name>
+  <extensions>
+    <ogr:X>-139.147167785600004</ogr:X>
+    <ogr:Y>60.909932051</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.909825835500001" lon="-139.146659577">
+  <name>G02_UM039</name>
+  <extensions>
+    <ogr:X>-139.146659577</ogr:X>
+    <ogr:Y>60.909825835500001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.909719618" lon="-139.146151371900004">
+  <name>G02_UM040</name>
+  <extensions>
+    <ogr:X>-139.146151371900004</ogr:X>
+    <ogr:Y>60.909719618</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.909613398700003" lon="-139.145643170200003">
+  <name>G02_UM041</name>
+  <extensions>
+    <ogr:X>-139.145643170200003</ogr:X>
+    <ogr:Y>60.909613398700003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.909507177499997" lon="-139.145134971900006">
+  <name>G02_UM042</name>
+  <extensions>
+    <ogr:X>-139.145134971900006</ogr:X>
+    <ogr:Y>60.909507177499997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.909400954299997" lon="-139.144626777000013">
+  <name>G02_UM043</name>
+  <extensions>
+    <ogr:X>-139.144626777000013</ogr:X>
+    <ogr:Y>60.909400954299997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.909294729300001" lon="-139.144118585499996">
+  <name>G02_UM044</name>
+  <extensions>
+    <ogr:X>-139.144118585499996</ogr:X>
+    <ogr:Y>60.909294729300001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.909188502299997" lon="-139.14361039740001">
+  <name>G02_UM045</name>
+  <extensions>
+    <ogr:X>-139.14361039740001</ogr:X>
+    <ogr:Y>60.909188502299997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.909082273400003" lon="-139.143102212799988">
+  <name>G02_UM046</name>
+  <extensions>
+    <ogr:X>-139.143102212799988</ogr:X>
+    <ogr:Y>60.909082273400003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.908927634800001" lon="-139.142652366800007">
+  <name>G02_UM047</name>
+  <extensions>
+    <ogr:X>-139.142652366800007</ogr:X>
+    <ogr:Y>60.908927634800001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.908763392499999" lon="-139.142214096599986">
+  <name>G02_UM048</name>
+  <extensions>
+    <ogr:X>-139.142214096599986</ogr:X>
+    <ogr:Y>60.908763392499999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.908599148900002" lon="-139.141775830799986">
+  <name>G02_UM049</name>
+  <extensions>
+    <ogr:X>-139.141775830799986</ogr:X>
+    <ogr:Y>60.908599148900002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9084349038" lon="-139.141337569600012">
+  <name>G02_UM050</name>
+  <extensions>
+    <ogr:X>-139.141337569600012</ogr:X>
+    <ogr:Y>60.9084349038</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.908270657400003" lon="-139.140899313">
+  <name>G02_UM051</name>
+  <extensions>
+    <ogr:X>-139.140899313</ogr:X>
+    <ogr:Y>60.908270657400003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9081064095" lon="-139.140461060799993">
+  <name>G02_UM052</name>
+  <extensions>
+    <ogr:X>-139.140461060799993</ogr:X>
+    <ogr:Y>60.9081064095</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.907942160200001" lon="-139.140022813200005">
+  <name>G02_UM053</name>
+  <extensions>
+    <ogr:X>-139.140022813200005</ogr:X>
+    <ogr:Y>60.907942160200001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.907777909499998" lon="-139.139584570099998">
+  <name>G02_UM054</name>
+  <extensions>
+    <ogr:X>-139.139584570099998</ogr:X>
+    <ogr:Y>60.907777909499998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.907613657399999" lon="-139.139146331500001">
+  <name>G02_UM055</name>
+  <extensions>
+    <ogr:X>-139.139146331500001</ogr:X>
+    <ogr:Y>60.907613657399999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.907449403900003" lon="-139.138708097400013">
+  <name>G02_UM056</name>
+  <extensions>
+    <ogr:X>-139.138708097400013</ogr:X>
+    <ogr:Y>60.907449403900003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.907285148900002" lon="-139.138269867800005">
+  <name>G02_UM057</name>
+  <extensions>
+    <ogr:X>-139.138269867800005</ogr:X>
+    <ogr:Y>60.907285148900002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.907120892599998" lon="-139.137831642799995">
+  <name>G02_UM058</name>
+  <extensions>
+    <ogr:X>-139.137831642799995</ogr:X>
+    <ogr:Y>60.907120892599998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.906956634799997" lon="-139.137393422299994">
+  <name>G02_UM059</name>
+  <extensions>
+    <ogr:X>-139.137393422299994</ogr:X>
+    <ogr:Y>60.906956634799997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.016838125299998" lon="-139.109821436900006">
+  <name>G13_LM001</name>
+  <extensions>
+    <ogr:X>-139.109821436900006</ogr:X>
+    <ogr:Y>61.016838125299998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.016604466099999" lon="-139.109545554300013">
+  <name>G13_LM002</name>
+  <extensions>
+    <ogr:X>-139.109545554300013</ogr:X>
+    <ogr:Y>61.016604466099999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.016370806300003" lon="-139.109269675799993">
+  <name>G13_LM003</name>
+  <extensions>
+    <ogr:X>-139.109269675799993</ogr:X>
+    <ogr:Y>61.016370806300003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.016137145899997" lon="-139.108993801299988">
+  <name>G13_LM004</name>
+  <extensions>
+    <ogr:X>-139.108993801299988</ogr:X>
+    <ogr:Y>61.016137145899997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.015903485" lon="-139.108717930799997">
+  <name>G13_LM005</name>
+  <extensions>
+    <ogr:X>-139.108717930799997</ogr:X>
+    <ogr:Y>61.015903485</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.0156698236" lon="-139.108442064400009">
+  <name>G13_LM006</name>
+  <extensions>
+    <ogr:X>-139.108442064400009</ogr:X>
+    <ogr:Y>61.0156698236</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.0154361616" lon="-139.108166202">
+  <name>G13_LM007</name>
+  <extensions>
+    <ogr:X>-139.108166202</ogr:X>
+    <ogr:Y>61.0154361616</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.015202499" lon="-139.107890343700006">
+  <name>G13_LM008</name>
+  <extensions>
+    <ogr:X>-139.107890343700006</ogr:X>
+    <ogr:Y>61.015202499</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.0149688359" lon="-139.107614489300005">
+  <name>G13_LM009</name>
+  <extensions>
+    <ogr:X>-139.107614489300005</ogr:X>
+    <ogr:Y>61.0149688359</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.0147351723" lon="-139.107338639">
+  <name>G13_LM010</name>
+  <extensions>
+    <ogr:X>-139.107338639</ogr:X>
+    <ogr:Y>61.0147351723</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.014501508099997" lon="-139.107062792800008">
+  <name>G13_LM011</name>
+  <extensions>
+    <ogr:X>-139.107062792800008</ogr:X>
+    <ogr:Y>61.014501508099997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.014267843299997" lon="-139.106786950599997">
+  <name>G13_LM012</name>
+  <extensions>
+    <ogr:X>-139.106786950599997</ogr:X>
+    <ogr:Y>61.014267843299997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.014034178" lon="-139.1065111124">
+  <name>G13_LM013</name>
+  <extensions>
+    <ogr:X>-139.1065111124</ogr:X>
+    <ogr:Y>61.014034178</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.013800512099998" lon="-139.106235278199989">
+  <name>G13_LM014</name>
+  <extensions>
+    <ogr:X>-139.106235278199989</ogr:X>
+    <ogr:Y>61.013800512099998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.013566845699998" lon="-139.105959448100009">
+  <name>G13_LM015</name>
+  <extensions>
+    <ogr:X>-139.105959448100009</ogr:X>
+    <ogr:Y>61.013566845699998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.013333178700002" lon="-139.105683621999987">
+  <name>G13_LM016</name>
+  <extensions>
+    <ogr:X>-139.105683621999987</ogr:X>
+    <ogr:Y>61.013333178700002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.013099511100002" lon="-139.1054078">
+  <name>G13_LM017</name>
+  <extensions>
+    <ogr:X>-139.1054078</ogr:X>
+    <ogr:Y>61.013099511100002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.012865843" lon="-139.105131981999989">
+  <name>G13_LM018</name>
+  <extensions>
+    <ogr:X>-139.105131981999989</ogr:X>
+    <ogr:Y>61.012865843</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.012632174399997" lon="-139.104856168">
+  <name>G13_LM019</name>
+  <extensions>
+    <ogr:X>-139.104856168</ogr:X>
+    <ogr:Y>61.012632174399997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.012398505199997" lon="-139.104580358100009">
+  <name>G13_LM020</name>
+  <extensions>
+    <ogr:X>-139.104580358100009</ogr:X>
+    <ogr:Y>61.012398505199997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.0121648354" lon="-139.104304552200006">
+  <name>G13_LM021</name>
+  <extensions>
+    <ogr:X>-139.104304552200006</ogr:X>
+    <ogr:Y>61.0121648354</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.011931165100002" lon="-139.104028750299989">
+  <name>G13_LM022</name>
+  <extensions>
+    <ogr:X>-139.104028750299989</ogr:X>
+    <ogr:Y>61.011931165100002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.0116974942" lon="-139.103752952399986">
+  <name>G13_LM023</name>
+  <extensions>
+    <ogr:X>-139.103752952399986</ogr:X>
+    <ogr:Y>61.0116974942</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.011463822800003" lon="-139.103477158599986">
+  <name>G13_LM024</name>
+  <extensions>
+    <ogr:X>-139.103477158599986</ogr:X>
+    <ogr:Y>61.011463822800003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.011230150899998" lon="-139.103201368899988">
+  <name>G13_LM025</name>
+  <extensions>
+    <ogr:X>-139.103201368899988</ogr:X>
+    <ogr:Y>61.011230150899998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.010996478300001" lon="-139.102925583099989">
+  <name>G13_LM026</name>
+  <extensions>
+    <ogr:X>-139.102925583099989</ogr:X>
+    <ogr:Y>61.010996478300001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.010762805200002" lon="-139.102649801399991">
+  <name>G13_LM027</name>
+  <extensions>
+    <ogr:X>-139.102649801399991</ogr:X>
+    <ogr:Y>61.010762805200002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.010529131600002" lon="-139.102374023700008">
+  <name>G13_LM028</name>
+  <extensions>
+    <ogr:X>-139.102374023700008</ogr:X>
+    <ogr:Y>61.010529131600002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.010295457399998" lon="-139.102098250099999">
+  <name>G13_LM029</name>
+  <extensions>
+    <ogr:X>-139.102098250099999</ogr:X>
+    <ogr:Y>61.010295457399998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.010061782699999" lon="-139.101822480500005">
+  <name>G13_LM030</name>
+  <extensions>
+    <ogr:X>-139.101822480500005</ogr:X>
+    <ogr:Y>61.010061782699999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.009828107399997" lon="-139.101546714899996">
+  <name>G13_LM031</name>
+  <extensions>
+    <ogr:X>-139.101546714899996</ogr:X>
+    <ogr:Y>61.009828107399997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.009600384400002" lon="-139.101252197">
+  <name>G13_LM032</name>
+  <extensions>
+    <ogr:X>-139.101252197</ogr:X>
+    <ogr:Y>61.009600384400002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.0093840364" lon="-139.100921840399991">
+  <name>G13_LM033</name>
+  <extensions>
+    <ogr:X>-139.100921840399991</ogr:X>
+    <ogr:Y>61.0093840364</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.0091676877" lon="-139.100591488199996">
+  <name>G13_LM034</name>
+  <extensions>
+    <ogr:X>-139.100591488199996</ogr:X>
+    <ogr:Y>61.0091676877</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.008951338199999" lon="-139.10026114050001">
+  <name>G13_LM035</name>
+  <extensions>
+    <ogr:X>-139.10026114050001</ogr:X>
+    <ogr:Y>61.008951338199999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.008734987899999" lon="-139.099930797300004">
+  <name>G13_LM036</name>
+  <extensions>
+    <ogr:X>-139.099930797300004</ogr:X>
+    <ogr:Y>61.008734987899999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.008518636700003" lon="-139.099600458600008">
+  <name>G13_LM037</name>
+  <extensions>
+    <ogr:X>-139.099600458600008</ogr:X>
+    <ogr:Y>61.008518636700003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.008302284800003" lon="-139.099270124300006">
+  <name>G13_LM038</name>
+  <extensions>
+    <ogr:X>-139.099270124300006</ogr:X>
+    <ogr:Y>61.008302284800003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.008085932100002" lon="-139.0989397946">
+  <name>G13_LM039</name>
+  <extensions>
+    <ogr:X>-139.0989397946</ogr:X>
+    <ogr:Y>61.008085932100002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.007869578600001" lon="-139.098609469299987">
+  <name>G13_LM040</name>
+  <extensions>
+    <ogr:X>-139.098609469299987</ogr:X>
+    <ogr:Y>61.007869578600001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.0076532243" lon="-139.098279148500012">
+  <name>G13_LM041</name>
+  <extensions>
+    <ogr:X>-139.098279148500012</ogr:X>
+    <ogr:Y>61.0076532243</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.007436869199999" lon="-139.09794883219999">
+  <name>G13_LM042</name>
+  <extensions>
+    <ogr:X>-139.09794883219999</ogr:X>
+    <ogr:Y>61.007436869199999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.007220513299998" lon="-139.097618520400005">
+  <name>G13_LM043</name>
+  <extensions>
+    <ogr:X>-139.097618520400005</ogr:X>
+    <ogr:Y>61.007220513299998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.007004156599997" lon="-139.097288213100001">
+  <name>G13_LM044</name>
+  <extensions>
+    <ogr:X>-139.097288213100001</ogr:X>
+    <ogr:Y>61.007004156599997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.006787799199998" lon="-139.09695791019999">
+  <name>G13_LM045</name>
+  <extensions>
+    <ogr:X>-139.09695791019999</ogr:X>
+    <ogr:Y>61.006787799199998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.006571440899997" lon="-139.096627611799988">
+  <name>G13_LM046</name>
+  <extensions>
+    <ogr:X>-139.096627611799988</ogr:X>
+    <ogr:Y>61.006571440899997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.006355081800002" lon="-139.096297317899996">
+  <name>G13_LM047</name>
+  <extensions>
+    <ogr:X>-139.096297317899996</ogr:X>
+    <ogr:Y>61.006355081800002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.006138721900001" lon="-139.095967028500013">
+  <name>G13_LM048</name>
+  <extensions>
+    <ogr:X>-139.095967028500013</ogr:X>
+    <ogr:Y>61.006138721900001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.005922361300001" lon="-139.095636743600011">
+  <name>G13_LM049</name>
+  <extensions>
+    <ogr:X>-139.095636743600011</ogr:X>
+    <ogr:Y>61.005922361300001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.0057059998" lon="-139.095306463199989">
+  <name>G13_LM050</name>
+  <extensions>
+    <ogr:X>-139.095306463199989</ogr:X>
+    <ogr:Y>61.0057059998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.005489637499998" lon="-139.09497618719999">
+  <name>G13_LM051</name>
+  <extensions>
+    <ogr:X>-139.09497618719999</ogr:X>
+    <ogr:Y>61.005489637499998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.005273274499999" lon="-139.094645915699999">
+  <name>G13_LM052</name>
+  <extensions>
+    <ogr:X>-139.094645915699999</ogr:X>
+    <ogr:Y>61.005273274499999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.005056910599997" lon="-139.094315648800006">
+  <name>G13_LM053</name>
+  <extensions>
+    <ogr:X>-139.094315648800006</ogr:X>
+    <ogr:Y>61.005056910599997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.004840546" lon="-139.093985386300005">
+  <name>G13_LM054</name>
+  <extensions>
+    <ogr:X>-139.093985386300005</ogr:X>
+    <ogr:Y>61.004840546</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.004624180500002" lon="-139.093655128199998">
+  <name>G13_LM055</name>
+  <extensions>
+    <ogr:X>-139.093655128199998</ogr:X>
+    <ogr:Y>61.004624180500002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.004407814300002" lon="-139.093324874699988">
+  <name>G13_LM056</name>
+  <extensions>
+    <ogr:X>-139.093324874699988</ogr:X>
+    <ogr:Y>61.004407814300002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.004191447300002" lon="-139.092994625599999">
+  <name>G13_LM057</name>
+  <extensions>
+    <ogr:X>-139.092994625599999</ogr:X>
+    <ogr:Y>61.004191447300002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.0039750794" lon="-139.09266438099999">
+  <name>G13_LM058</name>
+  <extensions>
+    <ogr:X>-139.09266438099999</ogr:X>
+    <ogr:Y>61.0039750794</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.0037587108" lon="-139.092334141">
+  <name>G13_LM059</name>
+  <extensions>
+    <ogr:X>-139.092334141</ogr:X>
+    <ogr:Y>61.0037587108</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.003542341399999" lon="-139.092003905300004">
+  <name>G13_LM060</name>
+  <extensions>
+    <ogr:X>-139.092003905300004</ogr:X>
+    <ogr:Y>61.003542341399999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.003325971199999" lon="-139.091673674199996">
+  <name>G13_LM061</name>
+  <extensions>
+    <ogr:X>-139.091673674199996</ogr:X>
+    <ogr:Y>61.003325971199999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.003109600199998" lon="-139.091343447599996">
+  <name>G13_LM062</name>
+  <extensions>
+    <ogr:X>-139.091343447599996</ogr:X>
+    <ogr:Y>61.003109600199998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.002893228300003" lon="-139.09101322539999">
+  <name>G13_LM063</name>
+  <extensions>
+    <ogr:X>-139.09101322539999</ogr:X>
+    <ogr:Y>61.002893228300003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.002676855700003" lon="-139.090683007699994">
+  <name>G13_LM064</name>
+  <extensions>
+    <ogr:X>-139.090683007699994</ogr:X>
+    <ogr:Y>61.002676855700003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.002460482300002" lon="-139.090352794500006">
+  <name>G13_LM065</name>
+  <extensions>
+    <ogr:X>-139.090352794500006</ogr:X>
+    <ogr:Y>61.002460482300002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.002244108200003" lon="-139.0900225858">
+  <name>G13_LM066</name>
+  <extensions>
+    <ogr:X>-139.0900225858</ogr:X>
+    <ogr:Y>61.002244108200003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.002027733200002" lon="-139.089692381499987">
+  <name>G13_LM067</name>
+  <extensions>
+    <ogr:X>-139.089692381499987</ogr:X>
+    <ogr:Y>61.002027733200002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.001811357400001" lon="-139.089362181799999">
+  <name>G13_LM068</name>
+  <extensions>
+    <ogr:X>-139.089362181799999</ogr:X>
+    <ogr:Y>61.001811357400001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.0015949808" lon="-139.089031986500004">
+  <name>G13_LM069</name>
+  <extensions>
+    <ogr:X>-139.089031986500004</ogr:X>
+    <ogr:Y>61.0015949808</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.001379500500001" lon="-139.088699648699986">
+  <name>G13_LM070</name>
+  <extensions>
+    <ogr:X>-139.088699648699986</ogr:X>
+    <ogr:Y>61.001379500500001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.001188708500003" lon="-139.08830822760001">
+  <name>G13_LM071</name>
+  <extensions>
+    <ogr:X>-139.08830822760001</ogr:X>
+    <ogr:Y>61.001188708500003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.000997915299997" lon="-139.087916811300005">
+  <name>G13_LM072</name>
+  <extensions>
+    <ogr:X>-139.087916811300005</ogr:X>
+    <ogr:Y>61.000997915299997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.000807120899999" lon="-139.087525399599997">
+  <name>G13_LM073</name>
+  <extensions>
+    <ogr:X>-139.087525399599997</ogr:X>
+    <ogr:Y>61.000807120899999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.000616325499998" lon="-139.087133992600002">
+  <name>G13_LM074</name>
+  <extensions>
+    <ogr:X>-139.087133992600002</ogr:X>
+    <ogr:Y>61.000616325499998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.000425529" lon="-139.086742590299991">
+  <name>G13_LM075</name>
+  <extensions>
+    <ogr:X>-139.086742590299991</ogr:X>
+    <ogr:Y>61.000425529</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.000234731299997" lon="-139.086351192699993">
+  <name>G13_LM076</name>
+  <extensions>
+    <ogr:X>-139.086351192699993</ogr:X>
+    <ogr:Y>61.000234731299997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.000043932499999" lon="-139.085959799800008">
+  <name>G13_LM077</name>
+  <extensions>
+    <ogr:X>-139.085959799800008</ogr:X>
+    <ogr:Y>61.000043932499999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.999853132600002" lon="-139.085568411600008">
+  <name>G13_LM078</name>
+  <extensions>
+    <ogr:X>-139.085568411600008</ogr:X>
+    <ogr:Y>60.999853132600002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.999662331499998" lon="-139.085177028099992">
+  <name>G13_LM079</name>
+  <extensions>
+    <ogr:X>-139.085177028099992</ogr:X>
+    <ogr:Y>60.999662331499998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.999471529399997" lon="-139.084785649299988">
+  <name>G13_LM080</name>
+  <extensions>
+    <ogr:X>-139.084785649299988</ogr:X>
+    <ogr:Y>60.999471529399997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.999280726099997" lon="-139.084394275199998">
+  <name>G13_LM081</name>
+  <extensions>
+    <ogr:X>-139.084394275199998</ogr:X>
+    <ogr:Y>60.999280726099997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.999089921699998" lon="-139.084002905799991">
+  <name>G13_LM082</name>
+  <extensions>
+    <ogr:X>-139.084002905799991</ogr:X>
+    <ogr:Y>60.999089921699998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9988991162" lon="-139.083611541099998">
+  <name>G13_LM083</name>
+  <extensions>
+    <ogr:X>-139.083611541099998</ogr:X>
+    <ogr:Y>60.9988991162</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.998708309599998" lon="-139.083220181099989">
+  <name>G13_LM084</name>
+  <extensions>
+    <ogr:X>-139.083220181099989</ogr:X>
+    <ogr:Y>60.998708309599998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.998517501800002" lon="-139.082828825700005">
+  <name>G13_LM085</name>
+  <extensions>
+    <ogr:X>-139.082828825700005</ogr:X>
+    <ogr:Y>60.998517501800002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.998326692900001" lon="-139.082437475099994">
+  <name>G13_LM086</name>
+  <extensions>
+    <ogr:X>-139.082437475099994</ogr:X>
+    <ogr:Y>60.998326692900001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.998135882900002" lon="-139.082046129199995">
+  <name>G13_LM087</name>
+  <extensions>
+    <ogr:X>-139.082046129199995</ogr:X>
+    <ogr:Y>60.998135882900002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.997945071799997" lon="-139.081654787899993">
+  <name>G13_LM088</name>
+  <extensions>
+    <ogr:X>-139.081654787899993</ogr:X>
+    <ogr:Y>60.997945071799997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.997754259600001" lon="-139.081263451399991">
+  <name>G13_LM089</name>
+  <extensions>
+    <ogr:X>-139.081263451399991</ogr:X>
+    <ogr:Y>60.997754259600001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.997563446199997" lon="-139.080872119600002">
+  <name>G13_LM090</name>
+  <extensions>
+    <ogr:X>-139.080872119600002</ogr:X>
+    <ogr:Y>60.997563446199997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.997372631700003" lon="-139.08048079240001">
+  <name>G13_LM091</name>
+  <extensions>
+    <ogr:X>-139.08048079240001</ogr:X>
+    <ogr:Y>60.997372631700003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.997181816100003" lon="-139.080089469900003">
+  <name>G13_LM092</name>
+  <extensions>
+    <ogr:X>-139.080089469900003</ogr:X>
+    <ogr:Y>60.997181816100003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.996990999399998" lon="-139.079698152199995">
+  <name>G13_LM093</name>
+  <extensions>
+    <ogr:X>-139.079698152199995</ogr:X>
+    <ogr:Y>60.996990999399998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.996800181600001" lon="-139.079306839100013">
+  <name>G13_LM094</name>
+  <extensions>
+    <ogr:X>-139.079306839100013</ogr:X>
+    <ogr:Y>60.996800181600001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.996609362599997" lon="-139.078915530800003">
+  <name>G13_LM095</name>
+  <extensions>
+    <ogr:X>-139.078915530800003</ogr:X>
+    <ogr:Y>60.996609362599997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.996418542599997" lon="-139.07852422709999">
+  <name>G13_LM096</name>
+  <extensions>
+    <ogr:X>-139.07852422709999</ogr:X>
+    <ogr:Y>60.996418542599997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.996227721399997" lon="-139.07813292809999">
+  <name>G13_LM097</name>
+  <extensions>
+    <ogr:X>-139.07813292809999</ogr:X>
+    <ogr:Y>60.996227721399997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.996036899" lon="-139.077741633800002">
+  <name>G13_LM098</name>
+  <extensions>
+    <ogr:X>-139.077741633800002</ogr:X>
+    <ogr:Y>60.996036899</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.995783385800003" lon="-139.077219812099997">
+  <name>G13_UM001</name>
+  <extensions>
+    <ogr:X>-139.077219812099997</ogr:X>
+    <ogr:Y>60.995783385800003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.995588589900002" lon="-139.076836915099989">
+  <name>G13_UM002</name>
+  <extensions>
+    <ogr:X>-139.076836915099989</ogr:X>
+    <ogr:Y>60.995588589900002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.995393793" lon="-139.076454022900009">
+  <name>G13_UM003</name>
+  <extensions>
+    <ogr:X>-139.076454022900009</ogr:X>
+    <ogr:Y>60.995393793</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.995198995" lon="-139.076071135299998">
+  <name>G13_UM004</name>
+  <extensions>
+    <ogr:X>-139.076071135299998</ogr:X>
+    <ogr:Y>60.995198995</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.995004195900002" lon="-139.075688252499987">
+  <name>G13_UM005</name>
+  <extensions>
+    <ogr:X>-139.075688252499987</ogr:X>
+    <ogr:Y>60.995004195900002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.994809395799997" lon="-139.075305374300001">
+  <name>G13_UM006</name>
+  <extensions>
+    <ogr:X>-139.075305374300001</ogr:X>
+    <ogr:Y>60.994809395799997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.994614594600002" lon="-139.0749225008">
+  <name>G13_UM007</name>
+  <extensions>
+    <ogr:X>-139.0749225008</ogr:X>
+    <ogr:Y>60.994614594600002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9944197923" lon="-139.074539632000011">
+  <name>G13_UM008</name>
+  <extensions>
+    <ogr:X>-139.074539632000011</ogr:X>
+    <ogr:Y>60.9944197923</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.994224988900001" lon="-139.074156767900007">
+  <name>G13_UM009</name>
+  <extensions>
+    <ogr:X>-139.074156767900007</ogr:X>
+    <ogr:Y>60.994224988900001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.994030184499998" lon="-139.073773908499987">
+  <name>G13_UM010</name>
+  <extensions>
+    <ogr:X>-139.073773908499987</ogr:X>
+    <ogr:Y>60.994030184499998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.993835379" lon="-139.073391053699993">
+  <name>G13_UM011</name>
+  <extensions>
+    <ogr:X>-139.073391053699993</ogr:X>
+    <ogr:Y>60.993835379</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.993640572399997" lon="-139.073008203699999">
+  <name>G13_UM012</name>
+  <extensions>
+    <ogr:X>-139.073008203699999</ogr:X>
+    <ogr:Y>60.993640572399997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.993445764699999" lon="-139.072625358300002">
+  <name>G13_UM013</name>
+  <extensions>
+    <ogr:X>-139.072625358300002</ogr:X>
+    <ogr:Y>60.993445764699999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.993250956" lon="-139.072242517599989">
+  <name>G13_UM014</name>
+  <extensions>
+    <ogr:X>-139.072242517599989</ogr:X>
+    <ogr:Y>60.993250956</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.993056146199997" lon="-139.071859681599989">
+  <name>G13_UM015</name>
+  <extensions>
+    <ogr:X>-139.071859681599989</ogr:X>
+    <ogr:Y>60.993056146199997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.992861335400001" lon="-139.071476850300002">
+  <name>G13_UM016</name>
+  <extensions>
+    <ogr:X>-139.071476850300002</ogr:X>
+    <ogr:Y>60.992861335400001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.992666523399997" lon="-139.071094023699999">
+  <name>G13_UM017</name>
+  <extensions>
+    <ogr:X>-139.071094023699999</ogr:X>
+    <ogr:Y>60.992666523399997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.992471710399997" lon="-139.070711201800009">
+  <name>G13_UM018</name>
+  <extensions>
+    <ogr:X>-139.070711201800009</ogr:X>
+    <ogr:Y>60.992471710399997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.992276896299998" lon="-139.070328384499987">
+  <name>G13_UM019</name>
+  <extensions>
+    <ogr:X>-139.070328384499987</ogr:X>
+    <ogr:Y>60.992276896299998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.992082081200003" lon="-139.06994557199999">
+  <name>G13_UM020</name>
+  <extensions>
+    <ogr:X>-139.06994557199999</ogr:X>
+    <ogr:Y>60.992082081200003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.991887265" lon="-139.069562764099999">
+  <name>G13_UM021</name>
+  <extensions>
+    <ogr:X>-139.069562764099999</ogr:X>
+    <ogr:Y>60.991887265</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.991692447699997" lon="-139.069179960899987">
+  <name>G13_UM022</name>
+  <extensions>
+    <ogr:X>-139.069179960899987</ogr:X>
+    <ogr:Y>60.991692447699997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9914976293" lon="-139.068797162399989">
+  <name>G13_UM023</name>
+  <extensions>
+    <ogr:X>-139.068797162399989</ogr:X>
+    <ogr:Y>60.9914976293</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.991302809899999" lon="-139.068414368600003">
+  <name>G13_UM024</name>
+  <extensions>
+    <ogr:X>-139.068414368600003</ogr:X>
+    <ogr:Y>60.991302809899999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9911079894" lon="-139.068031579500001">
+  <name>G13_UM025</name>
+  <extensions>
+    <ogr:X>-139.068031579500001</ogr:X>
+    <ogr:Y>60.9911079894</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.990913167800002" lon="-139.067648795">
+  <name>G13_UM026</name>
+  <extensions>
+    <ogr:X>-139.067648795</ogr:X>
+    <ogr:Y>60.990913167800002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.990718345099999" lon="-139.067266015299992">
+  <name>G13_UM027</name>
+  <extensions>
+    <ogr:X>-139.067266015299992</ogr:X>
+    <ogr:Y>60.990718345099999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9905235214" lon="-139.066883240200013">
+  <name>G13_UM028</name>
+  <extensions>
+    <ogr:X>-139.066883240200013</ogr:X>
+    <ogr:Y>60.9905235214</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.990328696600002" lon="-139.06650046979999">
+  <name>G13_UM029</name>
+  <extensions>
+    <ogr:X>-139.06650046979999</ogr:X>
+    <ogr:Y>60.990328696600002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.990133870800001" lon="-139.066117704199996">
+  <name>G13_UM030</name>
+  <extensions>
+    <ogr:X>-139.066117704199996</ogr:X>
+    <ogr:Y>60.990133870800001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9899390438" lon="-139.065734943100011">
+  <name>G13_UM031</name>
+  <extensions>
+    <ogr:X>-139.065734943100011</ogr:X>
+    <ogr:Y>60.9899390438</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.989744215800002" lon="-139.065352186799998">
+  <name>G13_UM032</name>
+  <extensions>
+    <ogr:X>-139.065352186799998</ogr:X>
+    <ogr:Y>60.989744215800002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.989549386699998" lon="-139.064969435199998">
+  <name>G13_UM033</name>
+  <extensions>
+    <ogr:X>-139.064969435199998</ogr:X>
+    <ogr:Y>60.989549386699998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.989354556599999" lon="-139.064586688199995">
+  <name>G13_UM034</name>
+  <extensions>
+    <ogr:X>-139.064586688199995</ogr:X>
+    <ogr:Y>60.989354556599999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9891597254" lon="-139.06420394599999">
+  <name>G13_UM035</name>
+  <extensions>
+    <ogr:X>-139.06420394599999</ogr:X>
+    <ogr:Y>60.9891597254</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.988964893099997" lon="-139.063821208399986">
+  <name>G13_UM036</name>
+  <extensions>
+    <ogr:X>-139.063821208399986</ogr:X>
+    <ogr:Y>60.988964893099997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.988770059700002" lon="-139.063438475499993">
+  <name>G13_UM037</name>
+  <extensions>
+    <ogr:X>-139.063438475499993</ogr:X>
+    <ogr:Y>60.988770059700002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.988558860200001" lon="-139.06309734620001">
+  <name>G13_UM038</name>
+  <extensions>
+    <ogr:X>-139.06309734620001</ogr:X>
+    <ogr:Y>60.988558860200001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.988336521699999" lon="-139.062784533700011">
+  <name>G13_UM039</name>
+  <extensions>
+    <ogr:X>-139.062784533700011</ogr:X>
+    <ogr:Y>60.988336521699999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.988114182499999" lon="-139.062471725600005">
+  <name>G13_UM040</name>
+  <extensions>
+    <ogr:X>-139.062471725600005</ogr:X>
+    <ogr:Y>60.988114182499999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9878918426" lon="-139.062158921800005">
+  <name>G13_UM041</name>
+  <extensions>
+    <ogr:X>-139.062158921800005</ogr:X>
+    <ogr:Y>60.9878918426</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.987669502" lon="-139.061846122399999">
+  <name>G13_UM042</name>
+  <extensions>
+    <ogr:X>-139.061846122399999</ogr:X>
+    <ogr:Y>60.987669502</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.987447160599999" lon="-139.061533327299998">
+  <name>G13_UM043</name>
+  <extensions>
+    <ogr:X>-139.061533327299998</ogr:X>
+    <ogr:Y>60.987447160599999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.987224818599998" lon="-139.06122053659999">
+  <name>G13_UM044</name>
+  <extensions>
+    <ogr:X>-139.06122053659999</ogr:X>
+    <ogr:Y>60.987224818599998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.987002475799997" lon="-139.060907750199988">
+  <name>G13_UM045</name>
+  <extensions>
+    <ogr:X>-139.060907750199988</ogr:X>
+    <ogr:Y>60.987002475799997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.986780132299998" lon="-139.060594968200007">
+  <name>G13_UM046</name>
+  <extensions>
+    <ogr:X>-139.060594968200007</ogr:X>
+    <ogr:Y>60.986780132299998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.986557788100001" lon="-139.060282190599992">
+  <name>G13_UM047</name>
+  <extensions>
+    <ogr:X>-139.060282190599992</ogr:X>
+    <ogr:Y>60.986557788100001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.986335443199998" lon="-139.05996941730001">
+  <name>G13_UM048</name>
+  <extensions>
+    <ogr:X>-139.05996941730001</ogr:X>
+    <ogr:Y>60.986335443199998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.986113097599997" lon="-139.059656648300006">
+  <name>G13_UM049</name>
+  <extensions>
+    <ogr:X>-139.059656648300006</ogr:X>
+    <ogr:Y>60.986113097599997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.985890751299998" lon="-139.059343883699995">
+  <name>G13_UM050</name>
+  <extensions>
+    <ogr:X>-139.059343883699995</ogr:X>
+    <ogr:Y>60.985890751299998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.985668404199998" lon="-139.059031123500006">
+  <name>G13_UM051</name>
+  <extensions>
+    <ogr:X>-139.059031123500006</ogr:X>
+    <ogr:Y>60.985668404199998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.985446056500002" lon="-139.058718367599994">
+  <name>G13_UM052</name>
+  <extensions>
+    <ogr:X>-139.058718367599994</ogr:X>
+    <ogr:Y>60.985446056500002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.985223708" lon="-139.058405616100003">
+  <name>G13_UM053</name>
+  <extensions>
+    <ogr:X>-139.058405616100003</ogr:X>
+    <ogr:Y>60.985223708</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.985001358799998" lon="-139.058092869">
+  <name>G13_UM054</name>
+  <extensions>
+    <ogr:X>-139.058092869</ogr:X>
+    <ogr:Y>60.985001358799998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.984779008899999" lon="-139.057780126199987">
+  <name>G13_UM055</name>
+  <extensions>
+    <ogr:X>-139.057780126199987</ogr:X>
+    <ogr:Y>60.984779008899999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.984556658300001" lon="-139.057467387700001">
+  <name>G13_UM056</name>
+  <extensions>
+    <ogr:X>-139.057467387700001</ogr:X>
+    <ogr:Y>60.984556658300001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.984334307" lon="-139.057154653600008">
+  <name>G13_UM057</name>
+  <extensions>
+    <ogr:X>-139.057154653600008</ogr:X>
+    <ogr:Y>60.984334307</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.984111955" lon="-139.056841923900009">
+  <name>G13_UM058</name>
+  <extensions>
+    <ogr:X>-139.056841923900009</ogr:X>
+    <ogr:Y>60.984111955</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.983889602200001" lon="-139.056529198499987">
+  <name>G13_UM059</name>
+  <extensions>
+    <ogr:X>-139.056529198499987</ogr:X>
+    <ogr:Y>60.983889602200001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.983667248800003" lon="-139.056216477499987">
+  <name>G13_UM060</name>
+  <extensions>
+    <ogr:X>-139.056216477499987</ogr:X>
+    <ogr:Y>60.983667248800003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.983444894599998" lon="-139.055903760799993">
+  <name>G13_UM061</name>
+  <extensions>
+    <ogr:X>-139.055903760799993</ogr:X>
+    <ogr:Y>60.983444894599998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.983222539700002" lon="-139.055591048499991">
+  <name>G13_UM062</name>
+  <extensions>
+    <ogr:X>-139.055591048499991</ogr:X>
+    <ogr:Y>60.983222539700002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9830001841" lon="-139.055278340499996">
+  <name>G13_UM063</name>
+  <extensions>
+    <ogr:X>-139.055278340499996</ogr:X>
+    <ogr:Y>60.9830001841</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9827778278" lon="-139.054965636899993">
+  <name>G13_UM064</name>
+  <extensions>
+    <ogr:X>-139.054965636899993</ogr:X>
+    <ogr:Y>60.9827778278</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.982555470800001" lon="-139.054652937599997">
+  <name>G13_UM065</name>
+  <extensions>
+    <ogr:X>-139.054652937599997</ogr:X>
+    <ogr:Y>60.982555470800001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.982333113" lon="-139.054340242699993">
+  <name>G13_UM066</name>
+  <extensions>
+    <ogr:X>-139.054340242699993</ogr:X>
+    <ogr:Y>60.982333113</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.982105181900003" lon="-139.054046555599996">
+  <name>G13_UM067</name>
+  <extensions>
+    <ogr:X>-139.054046555599996</ogr:X>
+    <ogr:Y>60.982105181900003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.981867151199999" lon="-139.05378731190001">
+  <name>G13_UM068</name>
+  <extensions>
+    <ogr:X>-139.05378731190001</ogr:X>
+    <ogr:Y>60.981867151199999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.981629119899999" lon="-139.053528072099994">
+  <name>G13_UM069</name>
+  <extensions>
+    <ogr:X>-139.053528072099994</ogr:X>
+    <ogr:Y>60.981629119899999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.981391088099997" lon="-139.053268836099988">
+  <name>G13_UM070</name>
+  <extensions>
+    <ogr:X>-139.053268836099988</ogr:X>
+    <ogr:Y>60.981391088099997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.981153055900002" lon="-139.05300960400001">
+  <name>G13_UM071</name>
+  <extensions>
+    <ogr:X>-139.05300960400001</ogr:X>
+    <ogr:Y>60.981153055900002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.980915023100003" lon="-139.052750375699986">
+  <name>G13_UM072</name>
+  <extensions>
+    <ogr:X>-139.052750375699986</ogr:X>
+    <ogr:Y>60.980915023100003</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.980676989899997" lon="-139.052491151299989">
+  <name>G13_UM073</name>
+  <extensions>
+    <ogr:X>-139.052491151299989</ogr:X>
+    <ogr:Y>60.980676989899997</ogr:Y>
+  </extensions>
+</wpt>
+</gpx>

@@ -1,0 +1,19 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="AREA_OR_POINT">Point</MDI>
+    <MDI key="TIFFTAG_DOCUMENTNAME">ST_ELIAS_MOUNTAINS_DEM_V2</MDI>
+    <MDI key="TIFFTAG_IMAGEDESCRIPTION">GEOCODE:WGIUTM7</MDI>
+    <MDI key="TIFFTAG_RESOLUTIONUNIT">2 (pixels/inch)</MDI>
+    <MDI key="TIFFTAG_XRESOLUTION">31.75</MDI>
+    <MDI key="TIFFTAG_YRESOLUTION">31.75</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <ColorInterp>Gray</ColorInterp>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">3451</MDI>
+      <MDI key="STATISTICS_MEAN">-8524.7947631073</MDI>
+      <MDI key="STATISTICS_MINIMUM">-32767</MDI>
+      <MDI key="STATISTICS_STDDEV">16076.899155845</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

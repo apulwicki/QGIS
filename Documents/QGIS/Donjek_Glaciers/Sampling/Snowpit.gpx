@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 1.11.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="60.783590138599997" minlon="-139.251805908499989" maxlat="61.003103853100001" maxlon="-139.046874031599998"/></metadata>              
+<wpt lat="60.9201971994" lon="-139.177110460800009">
+  <name>G02_LSP</name>
+  <extensions>
+    <ogr:X>-139.177110460800009</ogr:X>
+    <ogr:Y>60.9201971994</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.911774032799997" lon="-139.155206177800011">
+  <name>G02_USP</name>
+  <extensions>
+    <ogr:X>-139.155206177800011</ogr:X>
+    <ogr:Y>60.911774032799997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.900093228599999" lon="-139.123901305499999">
+  <name>G02_ASP</name>
+  <extensions>
+    <ogr:X>-139.123901305499999</ogr:X>
+    <ogr:Y>60.900093228599999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.783590138599997" lon="-139.228523337399992">
+  <name>G04_LSP</name>
+  <extensions>
+    <ogr:X>-139.228523337399992</ogr:X>
+    <ogr:Y>60.783590138599997</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.790564079399999" lon="-139.245486911799986">
+  <name>G04_USP</name>
+  <extensions>
+    <ogr:X>-139.245486911799986</ogr:X>
+    <ogr:Y>60.790564079399999</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.804086050800002" lon="-139.251805908499989">
+  <name>G04_ASP</name>
+  <extensions>
+    <ogr:X>-139.251805908499989</ogr:X>
+    <ogr:Y>60.804086050800002</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="61.003103853100001" lon="-139.090243493299994">
+  <name>G13_LSP</name>
+  <extensions>
+    <ogr:X>-139.090243493299994</ogr:X>
+    <ogr:Y>61.003103853100001</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.991146595899998" lon="-139.068062046499989">
+  <name>G13_USP</name>
+  <extensions>
+    <ogr:X>-139.068062046499989</ogr:X>
+    <ogr:Y>60.991146595899998</ogr:Y>
+  </extensions>
+</wpt>
+<wpt lat="60.9762264039" lon="-139.046874031599998">
+  <name>G13_ASP</name>
+  <extensions>
+    <ogr:X>-139.046874031599998</ogr:X>
+    <ogr:Y>60.9762264039</ogr:Y>
+  </extensions>
+</wpt>
+</gpx>

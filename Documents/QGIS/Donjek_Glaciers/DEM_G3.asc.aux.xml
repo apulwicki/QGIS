@@ -1,0 +1,13 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="AREA_OR_POINT">Point</MDI>
+    <MDI key="TIFFTAG_DOCUMENTNAME">ST_ELIAS_MOUNTAINS_DEM_V2</MDI>
+    <MDI key="TIFFTAG_IMAGEDESCRIPTION">GEOCODE:WGIUTM7</MDI>
+    <MDI key="TIFFTAG_RESOLUTIONUNIT">2 (pixels/inch)</MDI>
+    <MDI key="TIFFTAG_XRESOLUTION">31.75</MDI>
+    <MDI key="TIFFTAG_YRESOLUTION">31.75</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <ColorInterp>Gray</ColorInterp>
+  </PAMRasterBand>
+</PAMDataset>
